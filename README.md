@@ -1,60 +1,62 @@
-> Introduction (please delete after reading):  
-[standard-GEM](https://github.com/MetabolicAtlas/standard-GEM) is a template repository that aims to standardize the format of genome-scale metabolic models (GEMs) versioned with git. In addition to encouraging the open-sourcing of GEMs, it facilitates the import of GEMs into databases and online websites. Moreover, it provides the community with a familiar structure that is easy to adopt through this repository itself. The template comes with a set of requirements and recommendations, packaged as to-do items in a hidden Markdown file in this repository `.standard-GEM.md`. After downloading this repository, or using it as a template, those to-do items provide guidance to how adherence to the standard can be obtained.
 
-> Instructions for this `README` (please delete after reading):  
-This is the `README.md` template provided by [standard-GEM](https://github.com/MetabolicAtlas/standard-GEM) and was crafted to cover most use-cases.  
-Feel free to edit this template `README`. Blanks are indicated by `{{ test }}`. One may use a search function to find these `{{`. Here are some examples of blanks used throughout this file: `{{organization or username}}` is the organization name or username for this GitHub repository, eg. `SysBioChalmers`; `{{repository name}}` is the name of this GitHub repository, eg. `yeast-GEM`.  
-If you find this template does not fit your needs, we would appreciate if you could report this by creating a new issue on [standard-GEM](https://github.com/MetabolicAtlas/standard-GEM/issues).
-
-
-## {{repository name}}: {{repository description}}
-
-[![Version](https://badge.fury.io/gh/{{organization or username}}%2F{{repository name}}.svg)](https://badge.fury.io/gh/sysbiochalmers/yeast-gem)  
-[![Zenodo](https://zenodo.org/badge/{{Zenodo ID}}.svg)](https://zenodo.org/badge/latestdoi/{{Zenodo ID}})  
-[![Gitter chat](https://badges.gitter.im/{{organization or username}}/{{repository name}}.svg)](https://gitter.im/{{organization or username}}/{{repository name}})
+## Opol-GSMM: Genome scale metabolic model of *Ogataea polymorpha*
 
 
 #### Description
 
-{{ fill in a short description or the paper abstract }}
+*Ogataea polymorpha* is a thermotolerant, methylotrophic yeast with significant industrial applications. While previously mainly used for protein synthesis, it also holds promise for producing platform chemicals. _O. polymorpha_ holds the distinct advantage of using methanol as a substrate, which could be potentially derived from carbon capture and utilization streams. Full development of the organism into a production strain and estimation of the metabolic capabilities require additional strain design, guided by metabolic modeling with a genome-scale metabolic model. However, to date, no genome-scale metabolic model is available for *O. polymorpha*.
+
+To overcome this limitation, we used a published reconstruction of the closely related yeast *Komagataella phaffii* as a reference and corrected reactions based on KEGG and MGOB annotation.  Additionally, we conducted phenotype microarray experiments to test the suitability of 190 substrates as carbon sources. Over three-quarter of the substrate use was correctly reproduced by the model and 27 new substrates were added, that were not present in the *K. phaffii* reference model. 
+
+The developed genome-scale metabolic model of *O. polymorpha* will support the engineering of synthetic metabolic capabilities and enable the optimization of production processes, thereby supporting a sustainable future methanol economy.
 
 
 #### Citation
 
-{{ provide the citation once available, for example:
-  > Lu, H., Li, F., Sánchez, B.J. et al (2019). A consensus S. cerevisiae metabolic model Yeast8 and its ecosystem for comprehensively probing cellular metabolism. Nat Commun 10, 3586 [doi:10.1038/s41467-019-11581-3](https://doi.org/10.1038/s41467-019-11581-3)
+Liebal, UW., Fabry, BA., Ravikrishnan A., Schedel, CVL., Schmitz, S., Blank, LM., Ebert, BE. (2020). Genome-scale model reconstruction of the methylotrophic yeast *Ogataea polymorpha*. under revision
 
-}}
+
 
 
 #### Keywords
 
-> Keywords are be separated by semicolons.
-> The `Model source` field contains the source(s) of the current model, eg existing GEMs. If possible, use the Markdown format to add the URL with the DOI.
+Biotechnology; Genome-Scale metabolic model; Metabolic reconstruction; Metabolic engineering; COBRA; Methylotrophy
 
-**Utilisation:** {{ experimental data reconstruction; multi-omics integrative analysis;, _in silico_ strain design; model template }}  
-**Field:** {{ metabolic-network reconstruction }}  
-**Type of model:** {{ reconstruction; curated }}  
-**Model source:** {{ [YeastMetabolicNetwork](http://doi.org/10.1038/nbt1492) }}  
-**Omic source:** {{ genomics; metabolomics }}  
-**Taxonomy:** {{ _Saccharomyces cerevisiae_ }}  
-**Metabolic system:** {{ general metabolism }}  
-**Tissue:**  
-**Bioreactor:**    
-**Cell type:**  
-**Cell line:**  
-**Strain:** {{ S288C }}  
-**Condition:** {{ aerobic; glucose-limited; defined media }}  
+
+
+**Utilisation:** experimental data reconstruction; _in silico_ strain design; model template 
+**Field:** metabolic reactions only
+**Type of model:** comparative; curated
+**Model source:** [iMT1026v3](http://doi.org/10.1111/1751-7915.12871) 
+**Omic source:** genomics
+**Taxonomy:** Eurkaryota, Fungi, Dikarya, Ascomycota, Saccharomycotina, Saccharomycetes, Saccharomycetales, Pichiaceae, Ogataea, Ogataea polymorpha
+
+**Metabolic system:** general metabolism, methylotrophy
+**Tissue:**  NA
+
+**Bioreactor:**  Batch, Chemostat 
+**Cell type:**  NA
+
+**Cell line:**  NA
+
+**Strain:** NCYC495 
+**Condition:** aerobic; glucose-limited; methanol-limited, defined media
 
 
 ### Installation
 
-{{ Be mindful of users who do not have a typical background - provide a clear overview of the required software. Also, there might be different requirements for users and collaborators. }}
+Due to license agreements the model is not freely available. However, we are happy to send you the model by mail:
+
+lars.blank(at)rwth-aachen.de
+
+ulf.liebal(at)rwth-aachen.de
 
 
 ### Usage
 
 {{ Describe how to load and save the model. }}
+
+Description of the python notebook.
 
 
 ### Contributing
