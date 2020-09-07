@@ -1,0 +1,903 @@
+yourlist:M20180731A7434721E10EE6586998A056CCD0537E982119Y	isomap:M20180731A7434721E10EE6586998A056CCD0537E982119Y	Entry	Entry name	Status	Protein names	Gene names	Organism	Length
+XP_018212317.1		A0A1B7SM25	A0A1B7SM25_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15751	Ogataea polymorpha	291
+XP_018213081.1		A0A1B7SPK8	A0A1B7SPK8_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15190	Ogataea polymorpha	701
+XP_018209622.1		A0A1B7SDW0	A0A1B7SDW0_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16723	Ogataea polymorpha	656
+XP_018211758.1		A0A1B7SK35	A0A1B7SK35_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_99867	Ogataea polymorpha	537
+XP_018210821.1		A0A1B7SHL5	A0A1B7SHL5_9ASCO	unreviewed	GPI inositol-deacylase (EC 3.1.-.-) (Fragment)	OGAPODRAFT_41426	Ogataea polymorpha	289
+XP_018210392.1		A0A1B7SG55	A0A1B7SG55_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16417	Ogataea polymorpha	735
+XP_018212055.1		A0A1B7SL85	A0A1B7SL85_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_23179	Ogataea polymorpha	473
+XP_018210688.1		A0A1B7SGY9	A0A1B7SGY9_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_24356	Ogataea polymorpha	250
+XP_018213083.1		A0A1B7SPK0	A0A1B7SPK0_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_91895	Ogataea polymorpha	153
+XP_018211920.1		A0A1B7SKU3	A0A1B7SKU3_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_6624	Ogataea polymorpha	137
+XP_018213239.1		A0A1B7SQ04	A0A1B7SQ04_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15277	Ogataea polymorpha	193
+XP_018208736.1		A0A1B7SB88	A0A1B7SB88_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_95905	Ogataea polymorpha	212
+XP_018209474.1		A0A1B7SDE7	A0A1B7SDE7_9ASCO	unreviewed	NADH dehydrogenase [ubiquinone] flavoprotein 1, mitochondrial (EC 1.6.5.3) (EC 1.6.99.3)	OGAPODRAFT_77844	Ogataea polymorpha	557
+XP_018212043.1		A0A1B7SL72	A0A1B7SL72_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_97752	Ogataea polymorpha	234
+XP_018213146.1		A0A1B7SPR3	A0A1B7SPR3_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15223	Ogataea polymorpha	122
+XP_018211482.1		A0A1B7SJ98	A0A1B7SJ98_9ASCO	unreviewed	NADH-ubiquinone oxidoreductase	OGAPODRAFT_16189	Ogataea polymorpha	180
+XP_018211678.1		A0A1B7SJW4	A0A1B7SJW4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_93707	Ogataea polymorpha	387
+XP_018209297.1		A0A1B7SCW1	A0A1B7SCW1_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_77703	Ogataea polymorpha	152
+XP_018211312.1		A0A1B7SIT4	A0A1B7SIT4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16110	Ogataea polymorpha	110
+XP_018213118.1		A0A1B7SPN3	A0A1B7SPN3_9ASCO	unreviewed	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit	OGAPODRAFT_6084	Ogataea polymorpha	140
+XP_018211303.1		A0A1B7SIT8	A0A1B7SIT8_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_93381	Ogataea polymorpha	139
+XP_018211687.1		A0A1B7SJV5	A0A1B7SJV5_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16302	Ogataea polymorpha	79
+XP_018211263.1		A0A1B7SIP5	A0A1B7SIP5_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16084	Ogataea polymorpha	246
+XP_018211150.1		A0A1B7SID1	A0A1B7SID1_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_93248	Ogataea polymorpha	146
+XP_018212021.1		A0A1B7SL48	A0A1B7SL48_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_92513	Ogataea polymorpha	212
+XP_018210979.1		A0A1B7SHS5	A0A1B7SHS5_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_8819	Ogataea polymorpha	178
+XP_018210097.1		A0A1B7SF83	A0A1B7SF83_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_77330	Ogataea polymorpha	186
+XP_018208677.1		A0A1B7SB38	A0A1B7SB38_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_78092	Ogataea polymorpha	183
+XP_018209694.1		A0A1B7SE48	A0A1B7SE48_9ASCO	unreviewed	Nucleoside diphosphate kinase (EC 2.7.4.6)	OGAPODRAFT_16755	Ogataea polymorpha	151
+XP_018212239.1		A0A1B7SLR7	A0A1B7SLR7_9ASCO	unreviewed	Uncharacterized protein (Fragment)	OGAPODRAFT_39142	Ogataea polymorpha	480
+XP_018208633.1		A0A1B7SAZ6	A0A1B7SAZ6_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_90970	Ogataea polymorpha	425
+XP_018208701.1		A0A1B7SB67	A0A1B7SB67_9ASCO	unreviewed	Endopolyphosphatase (EC 3.6.1.10)	OGAPODRAFT_17427	Ogataea polymorpha	611
+XP_018208744.1		A0A1B7SBB6	A0A1B7SBB6_9ASCO	unreviewed	Uncharacterized protein (Fragment)	OGAPODRAFT_17449	Ogataea polymorpha	266
+XP_018212573.1		A0A1B7SMP5	A0A1B7SMP5_9ASCO	unreviewed	Aspartate aminotransferase (EC 2.6.1.1)	OGAPODRAFT_15884	Ogataea polymorpha	436
+XP_018212270.1		A0A1B7SLU4	A0A1B7SLU4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_98096	Ogataea polymorpha	473
+XP_018209135.1		A0A1B7SCF4	A0A1B7SCF4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_102119	Ogataea polymorpha	403
+XP_018213151.1		A0A1B7SPT4	A0A1B7SPT4_9ASCO	unreviewed	Aspartate aminotransferase (EC 2.6.1.1)	OGAPODRAFT_96725	Ogataea polymorpha	416
+XP_018211616.1		A0A1B7SJR4	A0A1B7SJR4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16270	Ogataea polymorpha	297
+XP_018209201.1		A0A1B7SCM7	A0A1B7SCM7_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_51028	Ogataea polymorpha	330
+XP_018210386.1		A0A1B7SG40	A0A1B7SG40_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_82442	Ogataea polymorpha	234
+XP_018212196.1		A0A1B7SLL9	A0A1B7SLL9_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_97991	Ogataea polymorpha	457
+XP_018212073.1		A0A1B7SLA3	A0A1B7SLA3_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15598	Ogataea polymorpha	374
+XP_018212780.1		A0A1B7SNP6	A0A1B7SNP6_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15037	Ogataea polymorpha	296
+XP_018211505.1		A0A1B7SJL8	A0A1B7SJL8_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16197	Ogataea polymorpha	216
+XP_018211506.1		A0A1B7SJF1	A0A1B7SJF1_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16198	Ogataea polymorpha	306
+XP_018208527.1		A0A1B7SAN7	A0A1B7SAN7_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_17349	Ogataea polymorpha	736
+XP_018210207.1		A0A1B7SFI6	A0A1B7SFI6_9ASCO	unreviewed	Dolichyl phosphate-mannose:protein O-mannosyltransferase	OGAPODRAFT_17001	Ogataea polymorpha	697
+XP_018212419.1		A0A1B7SM94	A0A1B7SM94_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_86070	Ogataea polymorpha	683
+XP_018212676.1		A0A1B7SN08	A0A1B7SN08_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_81878	Ogataea polymorpha	362
+XP_018210873.1		A0A1B7SHF4	A0A1B7SHF4_9ASCO	unreviewed	Carbonic anhydrase (EC 4.2.1.1) (Carbonate dehydratase) (Fragment)	OGAPODRAFT_42796	Ogataea polymorpha	201
+XP_018212215.1		A0A1B7SLP6	A0A1B7SLP6_9ASCO	unreviewed	Acyl-CoA desaturase (EC 1.14.19.1)	OGAPODRAFT_15704	Ogataea polymorpha	486
+XP_018213419.1		A0A1B7SQI2	A0A1B7SQI2_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_74884	Ogataea polymorpha	347
+XP_018208914.1		A0A1B7SBT8	A0A1B7SBT8_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_83835	Ogataea polymorpha	541
+XP_018213056.1		A0A1B7SPH1	A0A1B7SPH1_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_91870	Ogataea polymorpha	445
+XP_018210405.1		A0A1B7SG42	A0A1B7SG42_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_76440	Ogataea polymorpha	635
+XP_018210227.1		A0A1B7SFL2	A0A1B7SFL2_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_95083	Ogataea polymorpha	557
+XP_018211106.1		A0A1B7SI88	A0A1B7SI88_9ASCO	unreviewed	Ceramide very long chain fatty acid hydroxylase (EC 1.-.-.-)	OGAPODRAFT_15994	Ogataea polymorpha	373
+XP_018213169.1		A0A1B7SPT3	A0A1B7SPT3_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_11046	Ogataea polymorpha	416
+XP_018210387.1		A0A1B7SG41	A0A1B7SG41_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16414	Ogataea polymorpha	294
+XP_018210737.1		A0A1B7SH52	A0A1B7SH52_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16571	Ogataea polymorpha	426
+XP_018208688.1		A0A1B7SB52	A0A1B7SB52_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_103253	Ogataea polymorpha	304
+XP_018212359.1		A0A1B7SM35	A0A1B7SM35_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_7041	Ogataea polymorpha	267
+XP_018212851.1		A0A1B7SNX4	A0A1B7SNX4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_5832	Ogataea polymorpha	253
+XP_018211696.1		A0A1B7SJY1	A0A1B7SJY1_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_82309	Ogataea polymorpha	529
+XP_018213369.1		A0A1B7SQD2	A0A1B7SQD2_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_92152	Ogataea polymorpha	1065
+XP_018210002.1		A0A1B7SF02	A0A1B7SF02_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_89317	Ogataea polymorpha	1067
+XP_018213566.1		A0A1B7SQX1	A0A1B7SQX1_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15468	Ogataea polymorpha	1326
+XP_018212427.1		A0A1B7SMD4	A0A1B7SMD4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15812	Ogataea polymorpha	541
+XP_018213420.1		A0A1B7SQI0	A0A1B7SQI0_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_97171	Ogataea polymorpha	420
+XP_018212320.1		A0A1B7SLZ5	A0A1B7SLZ5_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15752	Ogataea polymorpha	419
+XP_018213201.1		A0A1B7SPY4	A0A1B7SPY4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_84591	Ogataea polymorpha	698
+XP_018210585.1		A0A1B7SGN0	A0A1B7SGN0_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_49434	Ogataea polymorpha	307
+XP_018209169.1		A0A1B7SCP6	A0A1B7SCP6_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_17110	Ogataea polymorpha	277
+XP_018209570.1		A0A1B7SDQ9	A0A1B7SDQ9_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_17305	Ogataea polymorpha	552
+XP_018209688.1		A0A1B7SE24	A0A1B7SE24_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_82886	Ogataea polymorpha	541
+XP_018209735.1		A0A1B7SE83	A0A1B7SE83_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_94637	Ogataea polymorpha	317
+XP_018211229.1		A0A1B7SII9	A0A1B7SII9_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16052	Ogataea polymorpha	334
+XP_018213255.1		A0A1B7SQ22	A0A1B7SQ22_9ASCO	unreviewed	Cytochrome b-c1 complex subunit Rieske, mitochondrial (EC 1.10.2.2)	OGAPODRAFT_15283	Ogataea polymorpha	204
+XP_018210427.1		A0A1B7SG94	A0A1B7SG94_9ASCO	unreviewed	Cytochrome b-c1 complex subunit 7	OGAPODRAFT_8287	Ogataea polymorpha	125
+XP_018208557.1		A0A1B7SAR7	A0A1B7SAR7_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_52470	Ogataea polymorpha	93
+XP_018209259.1		A0A1B7SCY8	A0A1B7SCY8_9ASCO	unreviewed	Mitochondrial cytochrome c	OGAPODRAFT_83364	Ogataea polymorpha	110
+XP_018211448.1		A0A1B7SJ97	A0A1B7SJ97_9ASCO	unreviewed	Arsenical pump-driving ATPase (EC 3.6.-.-)	OGAPODRAFT_16175	Ogataea polymorpha	256
+XP_018211903.1		A0A1B7SKT5	A0A1B7SKT5_9ASCO	unreviewed	Acyl-coenzyme A oxidase	OGAPODRAFT_15513	Ogataea polymorpha	693
+XP_018209983.1		A0A1B7SF05	A0A1B7SF05_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_94867	Ogataea polymorpha	227
+XP_018213136.1		A0A1B7SPP9	A0A1B7SPP9_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15216	Ogataea polymorpha	283
+XP_018211081.1		A0A1B7SI68	A0A1B7SI68_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_93183	Ogataea polymorpha	414
+XP_018209736.1		A0A1B7SE98	A0A1B7SE98_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16776	Ogataea polymorpha	899
+XP_018209707.1		A0A1B7SE36	A0A1B7SE36_9ASCO	unreviewed	Phosphodiesterase (EC 3.1.4.-)	OGAPODRAFT_16761	Ogataea polymorpha	522
+XP_018213532.1		A0A1B7SQW8	A0A1B7SQW8_9ASCO	unreviewed	Lysophospholipase (EC 3.1.1.5)	OGAPODRAFT_15456	Ogataea polymorpha	399
+XP_018210528.1		A0A1B7SGI7	A0A1B7SGI7_9ASCO	unreviewed	Patatin-like phospholipase domain-containing protein (EC 3.1.1.-) (Fragment)	OGAPODRAFT_16477	Ogataea polymorpha	722
+XP_018211908.1		A0A1B7SKT6	A0A1B7SKT6_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_23093	Ogataea polymorpha	351
+XP_018212121.1		A0A1B7SLF1	A0A1B7SLF1_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15624	Ogataea polymorpha	319
+XP_018212517.1		A0A1B7SML8	A0A1B7SML8_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_47173	Ogataea polymorpha	371
+XP_018209109.1		A0A1B7SCI9	A0A1B7SCI9_9ASCO	unreviewed	Lysophospholipase NTE1 (EC 3.1.1.5) (Intracellular phospholipase B)	OGAPODRAFT_102080	Ogataea polymorpha	1394
+XP_018212681.1		A0A1B7SMZ4	A0A1B7SMZ4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15936	Ogataea polymorpha	370
+XP_018213441.1		A0A1B7SQM5	A0A1B7SQM5_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15386	Ogataea polymorpha	1430
+XP_018213238.1		A0A1B7SQ07	A0A1B7SQ07_9ASCO	unreviewed	Exo-1,3-beta-glucanase/1,3-beta-D-glucan glucanohydrolase	OGAPODRAFT_96880	Ogataea polymorpha	435
+XP_018209984.1		A0A1B7SEY8	A0A1B7SEY8_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_101511	Ogataea polymorpha	560
+XP_018213041.1		A0A1B7SPH2	A0A1B7SPH2_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15166	Ogataea polymorpha	491
+XP_018210842.1		A0A1B7SHD8	A0A1B7SHD8_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16634	Ogataea polymorpha	396
+XP_018211048.1		A0A1B7SHZ3	A0A1B7SHZ3_9ASCO	unreviewed	Repressible acid phosphatase	OGAPODRAFT_76934	Ogataea polymorpha	442
+XP_018213280.1		A0A1B7SQ39	A0A1B7SQ39_9ASCO	unreviewed	Acetyl-coenzyme A synthetase (EC 6.2.1.1)	OGAPODRAFT_15301	Ogataea polymorpha	670
+XP_018211931.1		A0A1B7SKV2	A0A1B7SKV2_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15531	Ogataea polymorpha	1672
+XP_018210140.1		A0A1B7SFC8	A0A1B7SFC8_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16973	Ogataea polymorpha	517
+XP_018212691.1		A0A1B7SN07	A0A1B7SN07_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_86506	Ogataea polymorpha	476
+XP_018211342.1		A0A1B7SIW6	A0A1B7SIW6_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_23810	Ogataea polymorpha	213
+XP_018213175.1		A0A1B7SPU4	A0A1B7SPU4_9ASCO	unreviewed	GTP:AMP phosphotransferase, mitochondrial (EC 2.7.4.10) (Adenylate kinase 3) (AK 3)	ADK2 OGAPODRAFT_6139	Ogataea polymorpha	217
+XP_018209529.1		A0A1B7SDP3	A0A1B7SDP3_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_17282	Ogataea polymorpha	289
+XP_018208683.1		A0A1B7SB44	A0A1B7SB44_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_17421	Ogataea polymorpha	995
+XP_018208834.1		A0A1B7SBK9	A0A1B7SBK9_9ASCO	unreviewed	Dihydrolipoyl dehydrogenase (EC 1.8.1.4)	OGAPODRAFT_91309	Ogataea polymorpha	489
+XP_018208805.1		A0A1B7SBG4	A0A1B7SBG4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_17478	Ogataea polymorpha	366
+XP_018210548.1		A0A1B7SGK8	A0A1B7SGK8_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16486	Ogataea polymorpha	571
+XP_018212393.1		A0A1B7SM72	A0A1B7SM72_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15788	Ogataea polymorpha	576
+XP_018210783.1		A0A1B7SH68	A0A1B7SH68_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_13274	Ogataea polymorpha	496
+XP_018210240.1		A0A1B7SFN1	A0A1B7SFN1_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_50694	Ogataea polymorpha	498
+XP_018208455.1		A0A1B7SAH5	A0A1B7SAH5_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_51848	Ogataea polymorpha	474
+XP_018212392.1		A0A1B7SMC8	A0A1B7SMC8_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15786	Ogataea polymorpha	581
+XP_018212952.1		A0A1B7SP79	A0A1B7SP79_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15123	Ogataea polymorpha	415
+XP_018209004.1		A0A1B7SC26	A0A1B7SC26_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_10662	Ogataea polymorpha	515
+XP_018208966.1		A0A1B7SBX1	A0A1B7SBX1_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_96086	Ogataea polymorpha	739
+XP_018211946.1		A0A1B7SKX4	A0A1B7SKX4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15536	Ogataea polymorpha	219
+XP_018212747.1		A0A1B7SN90	A0A1B7SN90_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_81921	Ogataea polymorpha	520
+XP_018210422.1		A0A1B7SG89	A0A1B7SG89_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16434	Ogataea polymorpha	312
+XP_018209758.1		A0A1B7SE97	A0A1B7SE97_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16782	Ogataea polymorpha	269
+XP_018210428.1		A0A1B7SG93	A0A1B7SG93_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_12974	Ogataea polymorpha	292
+XP_018210589.1		A0A1B7SGM4	A0A1B7SGM4_9ASCO	unreviewed	Plasma membrane ATPase (EC 3.6.3.6)	OGAPODRAFT_88121	Ogataea polymorpha	897
+XP_018209663.1		A0A1B7SE41	A0A1B7SE41_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16736	Ogataea polymorpha	230
+XP_018210515.1		A0A1B7SGF3	A0A1B7SGF3_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16472	Ogataea polymorpha	245
+XP_018212823.1		A0A1B7SNU8	A0A1B7SNU8_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15060	Ogataea polymorpha	197
+XP_018212406.1		A0A1B7SM85	A0A1B7SM85_9ASCO	unreviewed	V-type proton ATPase proteolipid subunit	OGAPODRAFT_15795	Ogataea polymorpha	138
+XP_018213072.1		A0A1B7SPK1	A0A1B7SPK1_9ASCO	unreviewed	Vacuolar ATP synthase subunit B (V-ATPase B subunit)	OGAPODRAFT_15185	Ogataea polymorpha	507
+XP_018213258.1		A0A1B7SQ25	A0A1B7SQ25_9ASCO	unreviewed	V-type proton ATPase proteolipid subunit	OGAPODRAFT_15287	Ogataea polymorpha	160
+XP_018212222.1		A0A1B7SLV6	A0A1B7SLV6_9ASCO	unreviewed	V-type proton ATPase subunit a	OGAPODRAFT_15710	Ogataea polymorpha	855
+XP_018209352.1		A0A1B7SD27	A0A1B7SD27_9ASCO	unreviewed	V-type proton ATPase subunit	OGAPODRAFT_83418	Ogataea polymorpha	346
+XP_018212457.1		A0A1B7SMG1	A0A1B7SMG1_9ASCO	unreviewed	V-type proton ATPase subunit F	OGAPODRAFT_98358	Ogataea polymorpha	119
+XP_018210807.1		A0A1B7SHC8	A0A1B7SHC8_9ASCO	unreviewed	Vacuolar ATPase subunit A	OGAPODRAFT_13298	Ogataea polymorpha	616
+XP_018210033.1		A0A1B7SF57	A0A1B7SF57_9ASCO	unreviewed	V-type proton ATPase subunit C	OGAPODRAFT_94910	Ogataea polymorpha	384
+XP_018213450.1		A0A1B7SQL0	A0A1B7SQL0_9ASCO	unreviewed	Major ADP/ATP carrier of the mitochondrial inner membrane	OGAPODRAFT_15396	Ogataea polymorpha	301
+XP_018212446.1		A0A1B7SMC5	A0A1B7SMC5_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_23423	Ogataea polymorpha	266
+XP_018211670.1		A0A1B7SJW8	A0A1B7SJW8_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_99703	Ogataea polymorpha	289
+XP_018210951.1		A0A1B7SHZ6	A0A1B7SHZ6_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16672	Ogataea polymorpha	591
+XP_018212169.1		A0A1B7SLJ6	A0A1B7SLJ6_9ASCO	unreviewed	CTP synthase (EC 6.3.4.2) (UTP--ammonia ligase)	OGAPODRAFT_15665	Ogataea polymorpha	575
+XP_018212044.1		A0A1B7SL73	A0A1B7SL73_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_47169	Ogataea polymorpha	384
+XP_018210434.1		A0A1B7SG96	A0A1B7SG96_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_87893	Ogataea polymorpha	303
+XP_018211025.1		A0A1B7SHV7	A0A1B7SHV7_9ASCO	unreviewed	Cytidine deaminase (EC 3.5.4.5) (Cytidine aminohydrolase)	OGAPODRAFT_101019	Ogataea polymorpha	136
+XP_018211153.1		A0A1B7SID2	A0A1B7SID2_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_7518	Ogataea polymorpha	204
+XP_018213437.1		A0A1B7SQL9	A0A1B7SQL9_9ASCO	unreviewed	Uncharacterized protein (Fragment)	OGAPODRAFT_38767	Ogataea polymorpha	697
+XP_018211315.1		A0A1B7SJ20	A0A1B7SJ20_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_93392	Ogataea polymorpha	711
+XP_018212086.1		A0A1B7SLB7	A0A1B7SLB7_9ASCO	unreviewed	Phosphoglycerate mutase (EC 5.4.2.11)	OGAPODRAFT_11645	Ogataea polymorpha	248
+XP_018213117.1		A0A1B7SPP5	A0A1B7SPP5_9ASCO	unreviewed	Acetohydroxyacid reductoisomerase	OGAPODRAFT_44799	Ogataea polymorpha	392
+XP_018211186.1		A0A1B7SIH7	A0A1B7SIH7_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16034	Ogataea polymorpha	236
+XP_018211591.1		A0A1B7SJL3	A0A1B7SJL3_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_82246	Ogataea polymorpha	257
+XP_018209620.1		A0A1B7SDX0	A0A1B7SDX0_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_82845	Ogataea polymorpha	569
+XP_018213119.1		A0A1B7SPN9	A0A1B7SPN9_9ASCO	unreviewed	Deoxyhypusine synthase, catalyzes formation of deoxyhypusine	OGAPODRAFT_15208	Ogataea polymorpha	371
+XP_018209638.1		A0A1B7SDX5	A0A1B7SDX5_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_94548	Ogataea polymorpha	819
+XP_018212018.1		A0A1B7SL47	A0A1B7SL47_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15568	Ogataea polymorpha	774
+XP_018210410.1		A0A1B7SG72	A0A1B7SG72_9ASCO	unreviewed	Fructose 1,6-bisphosphate aldolase, required for glycolysis and gluconeogenesis	OGAPODRAFT_100096	Ogataea polymorpha	359
+XP_018209867.1		A0A1B7SEK5	A0A1B7SEK5_9ASCO	unreviewed	Low affinity glucose transporter	OGAPODRAFT_13736	Ogataea polymorpha	540
+XP_018210195.1		A0A1B7SFJ2	A0A1B7SFJ2_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16996	Ogataea polymorpha	431
+XP_018212013.1		A0A1B7SL44	A0A1B7SL44_9ASCO	unreviewed	Glucose-6-phosphate isomerase (EC 5.3.1.9)	OGAPODRAFT_15567	Ogataea polymorpha	546
+XP_018208605.1		A0A1B7SAW9	A0A1B7SAW9_9ASCO	unreviewed	Glucose-6-phosphate 1-epimerase (EC 5.1.3.15)	OGAPODRAFT_83668	Ogataea polymorpha	298
+XP_018208672.1		A0A1B7SB50	A0A1B7SB50_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_17416	Ogataea polymorpha	508
+XP_018212053.1		A0A1B7SL82	A0A1B7SL82_9ASCO	unreviewed	Glycine cleavage system P protein (EC 1.4.4.2)	OGAPODRAFT_15589	Ogataea polymorpha	942
+XP_018212059.1		A0A1B7SL83	A0A1B7SL83_9ASCO	unreviewed	Aminomethyltransferase (EC 2.1.2.10) (Glycine cleavage system T protein)	OGAPODRAFT_15592	Ogataea polymorpha	361
+XP_018209495.1		A0A1B7SDG6	A0A1B7SDG6_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_51567	Ogataea polymorpha	189
+XP_018211471.1		A0A1B7SJ95	A0A1B7SJ95_9ASCO	unreviewed	Phosphotransferase (EC 2.7.1.-)	OGAPODRAFT_99403	Ogataea polymorpha	471
+XP_018213316.1		A0A1B7SQ76	A0A1B7SQ76_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_81199	Ogataea polymorpha	256
+XP_018211649.1		A0A1B7SJQ0	A0A1B7SJQ0_9ASCO	unreviewed	Glutathione peroxidase	OGAPODRAFT_82283	Ogataea polymorpha	166
+XP_018211435.1		A0A1B7SJF4	A0A1B7SJF4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16166	Ogataea polymorpha	131
+XP_018209600.1		A0A1B7SDU7	A0A1B7SDU7_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16710	Ogataea polymorpha	842
+XP_018209865.1		A0A1B7SEL3	A0A1B7SEL3_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16837	Ogataea polymorpha	626
+XP_018209335.1		A0A1B7SD09	A0A1B7SD09_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_17183	Ogataea polymorpha	436
+XP_018209254.1		A0A1B7SCS6	A0A1B7SCS6_9ASCO	unreviewed	Homo-isocitrate dehydrogenase, an NAD-linked mitochondrial enzyme	OGAPODRAFT_95351	Ogataea polymorpha	372
+XP_018210349.1		A0A1B7SFY7	A0A1B7SFY7_9ASCO	unreviewed	3-hydroxy-3-methylglutaryl coenzyme A synthase (HMG-CoA synthase) (EC 2.3.3.10)	OGAPODRAFT_16399	Ogataea polymorpha	444
+XP_018210896.1		A0A1B7SHL0	A0A1B7SHL0_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_100800	Ogataea polymorpha	592
+XP_018212557.1		A0A1B7SMQ3	A0A1B7SMQ3_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15878	Ogataea polymorpha	277
+XP_018210650.1		A0A1B7SGS9	A0A1B7SGS9_9ASCO	unreviewed	Isocitrate dehydrogenase [NAD] subunit, mitochondrial	OGAPODRAFT_48849	Ogataea polymorpha	366
+XP_018210549.1		A0A1B7SGI8	A0A1B7SGI8_9ASCO	unreviewed	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)	OGAPODRAFT_16487	Ogataea polymorpha	430
+XP_018212081.1		A0A1B7SLB1	A0A1B7SLB1_9ASCO	unreviewed	Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)	OGAPODRAFT_75230	Ogataea polymorpha	408
+XP_018213051.1		A0A1B7SPI3	A0A1B7SPI3_9ASCO	unreviewed	Branched-chain-amino-acid aminotransferase (EC 2.6.1.42)	OGAPODRAFT_15169	Ogataea polymorpha	371
+XP_018211214.1		A0A1B7SIG7	A0A1B7SIG7_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_99052	Ogataea polymorpha	571
+XP_018211004.1		A0A1B7SHY0	A0A1B7SHY0_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_13455	Ogataea polymorpha	538
+XP_018211957.1		A0A1B7SL17	A0A1B7SL17_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_97622	Ogataea polymorpha	515
+XP_018208600.1		A0A1B7SAY2	A0A1B7SAY2_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_95776	Ogataea polymorpha	773
+XP_018208799.1		A0A1B7SBH7	A0A1B7SBH7_9ASCO	unreviewed	Succinate-CoA ligase subunit beta (EC 6.2.1.-)	OGAPODRAFT_17475	Ogataea polymorpha	311
+XP_018208680.1		A0A1B7SB81	A0A1B7SB81_9ASCO	unreviewed	Succinate--CoA ligase [ADP-forming] subunit alpha, mitochondrial (EC 6.2.1.5) (Succinyl-CoA synthetase subunit alpha) (SCS-alpha)	OGAPODRAFT_52668	Ogataea polymorpha	319
+XP_018211824.1		A0A1B7SK91	A0A1B7SK91_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16373	Ogataea polymorpha	499
+XP_018212751.1		A0A1B7SN73	A0A1B7SN73_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15969	Ogataea polymorpha	545
+XP_018211604.1		A0A1B7SJL7	A0A1B7SJL7_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16261	Ogataea polymorpha	629
+XP_018208540.1		A0A1B7SAR8	A0A1B7SAR8_9ASCO	unreviewed	Uncharacterized protein (Fragment)	OGAPODRAFT_90798	Ogataea polymorpha	497
+XP_018210272.1		A0A1B7SFS1	A0A1B7SFS1_9ASCO	unreviewed	Cobalamin-independent methionine synthase	OGAPODRAFT_17032	Ogataea polymorpha	765
+XP_018213317.1		A0A1B7SQA0	A0A1B7SQA0_9ASCO	unreviewed	Kinase (EC 2.7.-.-)	OGAPODRAFT_15319	Ogataea polymorpha	308
+XP_018211215.1		A0A1B7SIS2	A0A1B7SIS2_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16045	Ogataea polymorpha	963
+XP_018209676.1		A0A1B7SE40	A0A1B7SE40_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16749	Ogataea polymorpha	556
+XP_018208586.1		A0A1B7SAV0	A0A1B7SAV0_9ASCO	unreviewed	Acyl carrier protein	OGAPODRAFT_17375	Ogataea polymorpha	111
+XP_018209099.1		A0A1B7SCH9	A0A1B7SCH9_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_17076	Ogataea polymorpha	893
+XP_018212876.1		A0A1B7SNZ0	A0A1B7SNZ0_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15082	Ogataea polymorpha	576
+XP_018209389.1		A0A1B7SDB8	A0A1B7SDB8_9ASCO	unreviewed	Nicotinate-nucleotide pyrophosphorylase [carboxylating] (EC 2.4.2.19) (Quinolinate phosphoribosyltransferase [decarboxylating])	OGAPODRAFT_102519	Ogataea polymorpha	304
+XP_018211945.1		A0A1B7SKX8	A0A1B7SKX8_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_85369	Ogataea polymorpha	267
+XP_018209427.1		A0A1B7SD91	A0A1B7SD91_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_17232	Ogataea polymorpha	301
+XP_018212987.1		A0A1B7SPB6	A0A1B7SPB6_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_96493	Ogataea polymorpha	288
+XP_018212122.1		A0A1B7SLL1	A0A1B7SLL1_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_75262	Ogataea polymorpha	291
+XP_018211695.1		A0A1B7SK46	A0A1B7SK46_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_87507	Ogataea polymorpha	388
+XP_018211907.1		A0A1B7SKW6	A0A1B7SKW6_9ASCO	unreviewed	Mitochondrial inner membrane transporter, exports 2-oxoadipate and 2-oxoglutarate from the mitochond (Fragment)	OGAPODRAFT_15517	Ogataea polymorpha	297
+XP_018209755.1		A0A1B7SEA0	A0A1B7SEA0_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_94659	Ogataea polymorpha	208
+XP_018209935.1		A0A1B7SET1	A0A1B7SET1_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_101456	Ogataea polymorpha	774
+XP_018212258.1		A0A1B7SLU3	A0A1B7SLU3_9ASCO	unreviewed	ATP-dependent 6-phosphofructokinase (ATP-PFK) (Phosphofructokinase) (EC 2.7.1.11) (Phosphohexokinase)	OGAPODRAFT_15722	Ogataea polymorpha	943
+XP_018210187.1		A0A1B7SFH2	A0A1B7SFH2_9ASCO	unreviewed	ATP-dependent 6-phosphofructokinase (ATP-PFK) (Phosphofructokinase) (EC 2.7.1.11) (Phosphohexokinase)	OGAPODRAFT_16992	Ogataea polymorpha	968
+XP_018208486.1		A0A1B7SAK6	A0A1B7SAK6_9ASCO	unreviewed	Mitochondrial phosphate carrier protein	OGAPODRAFT_17330	Ogataea polymorpha	310
+XP_018210490.1		A0A1B7SGE4	A0A1B7SGE4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_49477	Ogataea polymorpha	215
+XP_018212801.1		A0A1B7SNS7	A0A1B7SNS7_9ASCO	unreviewed	Amine oxidase (EC 1.4.3.-)	OGAPODRAFT_15049	Ogataea polymorpha	438
+XP_018212104.1		A0A1B7SLD8	A0A1B7SLD8_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_81537	Ogataea polymorpha	344
+XP_018210552.1		A0A1B7SGK5	A0A1B7SGK5_9ASCO	unreviewed	Purine nucleoside phosphorylase (EC 2.4.2.1) (Inosine-guanosine phosphorylase)	OGAPODRAFT_76560	Ogataea polymorpha	319
+XP_018212237.1		A0A1B7SLU8	A0A1B7SLU8_9ASCO	unreviewed	Thioredoxin	OGAPODRAFT_15714	Ogataea polymorpha	102
+XP_018210834.1		A0A1B7SHF3	A0A1B7SHF3_9ASCO	unreviewed	Small subunit of the ribonucleotide-diphosphate reductase complex	OGAPODRAFT_16630	Ogataea polymorpha	407
+XP_018212408.1		A0A1B7SMA0	A0A1B7SMA0_9ASCO	unreviewed	Ribonucleoside-diphosphate reductase (EC 1.17.4.1)	OGAPODRAFT_75480	Ogataea polymorpha	1017
+XP_018213094.1		A0A1B7SPN4	A0A1B7SPN4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_91905	Ogataea polymorpha	206
+XP_018208475.1		A0A1B7SAJ3	A0A1B7SAJ3_9ASCO	unreviewed	Succinate dehydrogenase [ubiquinone] cytochrome b small subunit	OGAPODRAFT_102895	Ogataea polymorpha	154
+XP_018211361.1		A0A1B7SIZ0	A0A1B7SIZ0_9ASCO	unreviewed	Succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial (EC 1.3.5.1)	OGAPODRAFT_99253	Ogataea polymorpha	253
+XP_018212391.1		A0A1B7SM59	A0A1B7SM59_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15785	Ogataea polymorpha	170
+XP_018213573.1		A0A1B7SQY8	A0A1B7SQY8_9ASCO	unreviewed	Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial (EC 1.3.5.1)	OGAPODRAFT_15471	Ogataea polymorpha	636
+XP_018209942.1		A0A1B7SET8	A0A1B7SET8_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16862	Ogataea polymorpha	195
+XP_018209565.1		A0A1B7SDN0	A0A1B7SDN0_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_17300	Ogataea polymorpha	352
+XP_018210167.1		A0A1B7SFF0	A0A1B7SFF0_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16983	Ogataea polymorpha	342
+XP_018212521.1		A0A1B7SMI9	A0A1B7SMI9_9ASCO	unreviewed	Threonine dehydratase (EC 4.3.1.19) (Threonine deaminase) (Fragment)	OGAPODRAFT_15860	Ogataea polymorpha	446
+XP_018211273.1		A0A1B7SIR0	A0A1B7SIR0_9ASCO	unreviewed	Thiamine pyrophosphokinase (EC 2.7.6.2)	OGAPODRAFT_7629	Ogataea polymorpha	302
+XP_018209288.1		A0A1B7SCW7	A0A1B7SCW7_9ASCO	unreviewed	Thioredoxin reductase (EC 1.8.1.9)	OGAPODRAFT_9853	Ogataea polymorpha	319
+XP_018210709.1		A0A1B7SH03	A0A1B7SH03_9ASCO	unreviewed	Uridylate kinase (UK) (EC 2.7.4.14) (ATP:UMP phosphotransferase) (Deoxycytidylate kinase) (CK) (dCMP kinase) (Uridine monophosphate kinase) (UMP kinase) (UMPK)	URA6 OGAPODRAFT_16560	Ogataea polymorpha	275
+XP_018208653.1		A0A1B7SB14	A0A1B7SB14_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_95826	Ogataea polymorpha	568
+XP_018210319.1		A0A1B7SFV8	A0A1B7SFV8_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16385	Ogataea polymorpha	680
+XP_018212860.1		A0A1B7SNX6	A0A1B7SNX6_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15072	Ogataea polymorpha	206
+XP_018209624.1		A0A1B7SDX6	A0A1B7SDX6_9ASCO	unreviewed	tRNA pseudouridine synthase (EC 5.4.99.-)	OGAPODRAFT_82848	Ogataea polymorpha	494
+XP_018211583.1		A0A1B7SJM2	A0A1B7SJM2_9ASCO	unreviewed	tRNA pseudouridine synthase (EC 5.4.99.-)	OGAPODRAFT_16247	Ogataea polymorpha	407
+XP_018212816.1		A0A1B7SNT2	A0A1B7SNT2_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_83994	Ogataea polymorpha	365
+XP_018211341.1		A0A1B7SIX1	A0A1B7SIX1_9ASCO	unreviewed	Acetyl-CoA hydrolase	OGAPODRAFT_16126	Ogataea polymorpha	523
+XP_018211557.1		A0A1B7SJG3	A0A1B7SJG3_9ASCO	unreviewed	Glutamine-dependent NAD(+) synthetase (EC 6.3.5.1) (NAD(+) synthase [glutamine-hydrolyzing])	OGAPODRAFT_82221	Ogataea polymorpha	710
+XP_018213246.1		A0A1B7SQ10	A0A1B7SQ10_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_81143	Ogataea polymorpha	312
+XP_018212768.1		A0A1B7SNN1	A0A1B7SNN1_9ASCO	unreviewed	Phosphatidate cytidylyltransferase (EC 2.7.7.41)	OGAPODRAFT_80848	Ogataea polymorpha	431
+XP_018213152.1		A0A1B7SPS9	A0A1B7SPS9_9ASCO	unreviewed	CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8) (Phosphatidylserine synthase)	OGAPODRAFT_45710	Ogataea polymorpha	253
+XP_018209066.1		A0A1B7SC86	A0A1B7SC86_9ASCO	unreviewed	Dihydroorotate dehydrogenase (quinone), mitochondrial (DHOdehase) (EC 1.3.5.2)	OGAPODRAFT_17054	Ogataea polymorpha	522
+XP_018211690.1		A0A1B7SJZ2	A0A1B7SJZ2_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16303	Ogataea polymorpha	444
+XP_018209198.1		A0A1B7SCN3	A0A1B7SCN3_9ASCO	unreviewed	T-complex protein 1 subunit gamma	OGAPODRAFT_17124	Ogataea polymorpha	520
+XP_018208713.1		A0A1B7SB94	A0A1B7SB94_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_17433	Ogataea polymorpha	454
+XP_018209978.1		A0A1B7SEW0	A0A1B7SEW0_9ASCO	unreviewed	Glycogen [starch] synthase (EC 2.4.1.11)	OGAPODRAFT_101503	Ogataea polymorpha	691
+XP_018212462.1		A0A1B7SMK4	A0A1B7SMK4_9ASCO	unreviewed	Protoheme IX farnesyltransferase, mitochondrial (EC 2.5.1.-) (Heme O synthase)	OGAPODRAFT_15831	Ogataea polymorpha	465
+XP_018209598.1		A0A1B7SDT4	A0A1B7SDT4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_24602	Ogataea polymorpha	539
+XP_018212782.1		A0A1B7SNR1	A0A1B7SNR1_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15039	Ogataea polymorpha	651
+XP_018212796.1		A0A1B7SNR0	A0A1B7SNR0_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15046	Ogataea polymorpha	1344
+XP_018212439.1		A0A1B7SMB4	A0A1B7SMB4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_98329	Ogataea polymorpha	549
+XP_018210014.1		A0A1B7SF19	A0A1B7SF19_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16899	Ogataea polymorpha	249
+XP_018210413.1		A0A1B7SG54	A0A1B7SG54_9ASCO	unreviewed	Alcohol dehydrogenase	OGAPODRAFT_82460	Ogataea polymorpha	349
+XP_018213440.1		A0A1B7SQK0	A0A1B7SQK0_9ASCO	unreviewed	S-(hydroxymethyl)glutathione dehydrogenase (EC 1.1.1.284)	OGAPODRAFT_97210	Ogataea polymorpha	380
+XP_018213586.1		A0A1B7SQZ1	A0A1B7SQZ1_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15480	Ogataea polymorpha	360
+XP_018212565.1		A0A1B7SMP0	A0A1B7SMP0_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_86309	Ogataea polymorpha	586
+XP_018209995.1		A0A1B7SEZ1	A0A1B7SEZ1_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_13838	Ogataea polymorpha	318
+XP_018211245.1		A0A1B7SIU9	A0A1B7SIU9_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_86869	Ogataea polymorpha	494
+XP_018213337.1		A0A1B7SQB9	A0A1B7SQB9_9ASCO	unreviewed	NADPH:adrenodoxin oxidoreductase, mitochondrial (EC 1.18.1.6)	OGAPODRAFT_6292	Ogataea polymorpha	456
+XP_018211097.1		A0A1B7SI56	A0A1B7SI56_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_81951	Ogataea polymorpha	166
+XP_018212713.1		A0A1B7SN32	A0A1B7SN32_9ASCO	unreviewed	Uncharacterized protein (Fragment)	OGAPODRAFT_44328	Ogataea polymorpha	76
+XP_018212711.1		A0A1B7SN27	A0A1B7SN27_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_98776	Ogataea polymorpha	531
+XP_018211988.1		A0A1B7SL13	A0A1B7SL13_9ASCO	unreviewed	NADH-cytochrome b5 reductase (EC 1.6.2.2)	OGAPODRAFT_15555	Ogataea polymorpha	299
+XP_018211681.1		A0A1B7SJV0	A0A1B7SJV0_9ASCO	unreviewed	NADH-cytochrome b5 reductase (EC 1.6.2.2)	OGAPODRAFT_87483	Ogataea polymorpha	278
+XP_018211714.1		A0A1B7SJY7	A0A1B7SJY7_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16318	Ogataea polymorpha	518
+XP_018210464.1		A0A1B7SGC6	A0A1B7SGC6_9ASCO	unreviewed	Thiamine thiazole synthase (Thiazole biosynthetic enzyme)	THI4 OGAPODRAFT_24225	Ogataea polymorpha	319
+XP_018210222.1		A0A1B7SFM0	A0A1B7SFM0_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_95078	Ogataea polymorpha	549
+XP_018213168.1		A0A1B7SPT0	A0A1B7SPT0_9ASCO	unreviewed	Uncharacterized protein (Fragment)	OGAPODRAFT_15232	Ogataea polymorpha	340
+XP_018210782.1		A0A1B7SH71	A0A1B7SH71_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_49212	Ogataea polymorpha	271
+XP_018209844.1		A0A1B7SEJ9	A0A1B7SEJ9_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16818	Ogataea polymorpha	612
+XP_018209601.1		A0A1B7SDT3	A0A1B7SDT3_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16711	Ogataea polymorpha	615
+XP_018209124.1		A0A1B7SCE9	A0A1B7SCE9_9ASCO	unreviewed	Uncharacterized protein (Fragment)	OGAPODRAFT_43491	Ogataea polymorpha	488
+XP_018211251.1		A0A1B7SIN0	A0A1B7SIN0_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16079	Ogataea polymorpha	305
+XP_018208923.1		A0A1B7SBU0	A0A1B7SBU0_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_17539	Ogataea polymorpha	622
+XP_018209390.1		A0A1B7SD54	A0A1B7SD54_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_17214	Ogataea polymorpha	296
+XP_018212563.1		A0A1B7SMN8	A0A1B7SMN8_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_98534	Ogataea polymorpha	324
+XP_018213191.1		A0A1B7SPX4	A0A1B7SPX4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15250	Ogataea polymorpha	299
+XP_018210632.1		A0A1B7SGS2	A0A1B7SGS2_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_8492	Ogataea polymorpha	700
+XP_018212285.1		A0A1B7SLW1	A0A1B7SLW1_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15739	Ogataea polymorpha	260
+XP_018208611.1		A0A1B7SAY4	A0A1B7SAY4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_95786	Ogataea polymorpha	476
+XP_018212912.1		A0A1B7SP42	A0A1B7SP42_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_91744	Ogataea polymorpha	463
+XP_018208541.1		A0A1B7SAR5	A0A1B7SAR5_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_90800	Ogataea polymorpha	1400
+XP_018210460.1		A0A1B7SGC1	A0A1B7SGC1_9ASCO	unreviewed	NADPH--cytochrome P450 reductase (CPR) (P450R) (EC 1.6.2.4)	NCP1 OGAPODRAFT_16447	Ogataea polymorpha	684
+XP_018213122.1		A0A1B7SPQ2	A0A1B7SPQ2_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_91928	Ogataea polymorpha	245
+XP_018212981.1		A0A1B7SPB4	A0A1B7SPB4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_91802	Ogataea polymorpha	243
+XP_018209675.1		A0A1B7SE22	A0A1B7SE22_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_82877	Ogataea polymorpha	204
+XP_018210420.1		A0A1B7SG81	A0A1B7SG81_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_93944	Ogataea polymorpha	193
+XP_018210964.1		A0A1B7SHU0	A0A1B7SHU0_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_94435	Ogataea polymorpha	315
+XP_018208945.1		A0A1B7SBV5	A0A1B7SBV5_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_17549	Ogataea polymorpha	374
+XP_018208942.1		A0A1B7SBV4	A0A1B7SBV4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_103659	Ogataea polymorpha	233
+XP_018212852.1		A0A1B7SNX5	A0A1B7SNX5_9ASCO	unreviewed	3-oxoacyl-[acyl-carrier-protein] synthase	OGAPODRAFT_74431	Ogataea polymorpha	432
+XP_018211282.1		A0A1B7SIQ3	A0A1B7SIQ3_9ASCO	unreviewed	Glutamate decarboxylase (EC 4.1.1.15)	OGAPODRAFT_16095	Ogataea polymorpha	577
+XP_018209447.1		A0A1B7SDA9	A0A1B7SDA9_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_102625	Ogataea polymorpha	515
+XP_018212247.1		A0A1B7SLV9	A0A1B7SLV9_9ASCO	unreviewed	Aldehyde dehydrogenase	OGAPODRAFT_98060	Ogataea polymorpha	498
+XP_018209132.1		A0A1B7SCF7	A0A1B7SCF7_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_17095	Ogataea polymorpha	277
+XP_018212494.1		A0A1B7SMI1	A0A1B7SMI1_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_7162	Ogataea polymorpha	137
+XP_018212812.1		A0A1B7SNT9	A0A1B7SNT9_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_83988	Ogataea polymorpha	192
+XP_018213245.1		A0A1B7SQ12	A0A1B7SQ12_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_92047	Ogataea polymorpha	493
+XP_018211302.1		A0A1B7SIS4	A0A1B7SIS4_9ASCO	unreviewed	4-nitrophenylphosphatase (PNPPase) (EC 3.1.3.41)	OGAPODRAFT_99184	Ogataea polymorpha	301
+XP_018209700.1		A0A1B7SE45	A0A1B7SE45_9ASCO	unreviewed	Alkaline phosphatase (EC 3.1.3.1)	OGAPODRAFT_88971	Ogataea polymorpha	490
+XP_018209055.1		A0A1B7SC67	A0A1B7SC67_9ASCO	unreviewed	Methionine aminopeptidase (EC 3.4.11.18)	OGAPODRAFT_17048	Ogataea polymorpha	326
+XP_018210757.1		A0A1B7SH70	A0A1B7SH70_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_88355	Ogataea polymorpha	597
+XP_018212914.1		A0A1B7SP46	A0A1B7SP46_9ASCO	unreviewed	Methionine aminopeptidase 2 (MAP 2) (MetAP 2) (EC 3.4.11.18) (Peptidase M)	MAP2 OGAPODRAFT_74482	Ogataea polymorpha	411
+XP_018209640.1		A0A1B7SDY9	A0A1B7SDY9_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16731	Ogataea polymorpha	734
+XP_018209089.1		A0A1B7SCH0	A0A1B7SCH0_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_17070	Ogataea polymorpha	448
+XP_018213200.1		A0A1B7SPV2	A0A1B7SPV2_9ASCO	unreviewed	Aminopeptidase (EC 3.4.11.-)	OGAPODRAFT_15256	Ogataea polymorpha	813
+XP_018208728.1		A0A1B7SB87	A0A1B7SB87_9ASCO	unreviewed	Aminopeptidase (EC 3.4.11.-)	OGAPODRAFT_17443	Ogataea polymorpha	861
+XP_018212466.1		A0A1B7SME5	A0A1B7SME5_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_92900	Ogataea polymorpha	471
+XP_018211043.1		A0A1B7SHX9	A0A1B7SHX9_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_49322	Ogataea polymorpha	346
+XP_018210934.1		A0A1B7SHQ2	A0A1B7SHQ2_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_94408	Ogataea polymorpha	379
+XP_018211083.1		A0A1B7SI61	A0A1B7SI61_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_75794	Ogataea polymorpha	414
+XP_018208509.1		A0A1B7SAN6	A0A1B7SAN6_9ASCO	unreviewed	Mannosyltransferase (EC 2.4.1.-)	OGAPODRAFT_14634	Ogataea polymorpha	435
+XP_018208732.1		A0A1B7SBA1	A0A1B7SBA1_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_10418	Ogataea polymorpha	402
+XP_018213396.1		A0A1B7SQF6	A0A1B7SQF6_9ASCO	unreviewed	Alpha-1,3-glucosyltransferase (EC 2.4.1.-)	OGAPODRAFT_97123	Ogataea polymorpha	546
+XP_018211950.1		A0A1B7SKX0	A0A1B7SKX0_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15538	Ogataea polymorpha	392
+XP_018211304.1		A0A1B7SIS1	A0A1B7SIS1_9ASCO	unreviewed	Mannosyltransferase (EC 2.4.1.-)	OGAPODRAFT_75953	Ogataea polymorpha	635
+XP_018212310.1		A0A1B7SLY4	A0A1B7SLY4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_75412	Ogataea polymorpha	431
+XP_018208570.1		A0A1B7SAU7	A0A1B7SAU7_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_17371	Ogataea polymorpha	658
+XP_018212030.1		A0A1B7SL56	A0A1B7SL56_9ASCO	unreviewed	Alpha-1,3-glucosyltransferase (EC 2.4.1.-)	OGAPODRAFT_92522	Ogataea polymorpha	802
+XP_018209345.1		A0A1B7SD18	A0A1B7SD18_9ASCO	unreviewed	Dol-P-Glc:Glc(2)Man(9)GlcNAc(2)-PP-Dol alpha-1,2-glucosyltransferase (EC 2.4.1.256)	OGAPODRAFT_102448	Ogataea polymorpha	438
+XP_018208704.1		A0A1B7SB75	A0A1B7SB75_9ASCO	unreviewed	Alpha-1,2-mannosyltransferase	OGAPODRAFT_103274	Ogataea polymorpha	627
+XP_018210090.1		A0A1B7SF84	A0A1B7SF84_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_77322	Ogataea polymorpha	474
+XP_018210214.1		A0A1B7SFL6	A0A1B7SFL6_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_83179	Ogataea polymorpha	162
+XP_018208824.1		A0A1B7SBK1	A0A1B7SBK1_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_103496	Ogataea polymorpha	350
+XP_018212261.1		A0A1B7SLT1	A0A1B7SLT1_9ASCO	unreviewed	Uridine kinase (EC 2.7.1.48)	OGAPODRAFT_81636	Ogataea polymorpha	474
+XP_018210603.1		A0A1B7SGN3	A0A1B7SGN3_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16505	Ogataea polymorpha	404
+XP_018208569.1		A0A1B7SAU4	A0A1B7SAU4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_103051	Ogataea polymorpha	587
+XP_018210637.1		A0A1B7SGV1	A0A1B7SGV1_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16529	Ogataea polymorpha	724
+XP_018208608.1		A0A1B7SAX7	A0A1B7SAX7_9ASCO	unreviewed	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit WBP1 (Oligosaccharyl transferase subunit WBP1) (EC 2.4.99.18)	OGAPODRAFT_103118	Ogataea polymorpha	415
+XP_018211883.1		A0A1B7SKR5	A0A1B7SKR5_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15502	Ogataea polymorpha	258
+XP_018213109.1		A0A1B7SPM9	A0A1B7SPM9_9ASCO	unreviewed	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit OST2 (Oligosaccharyl transferase subunit OST2) (EC 2.4.99.18)	OGAPODRAFT_6075	Ogataea polymorpha	146
+XP_018211078.1		A0A1B7SI71	A0A1B7SI71_9ASCO	unreviewed	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1 (EC 2.4.99.18)	OGAPODRAFT_93180	Ogataea polymorpha	470
+XP_018210575.1		A0A1B7SGM1	A0A1B7SGM1_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_13100	Ogataea polymorpha	512
+XP_018212180.1		A0A1B7SLK3	A0A1B7SLK3_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15675	Ogataea polymorpha	323
+XP_018209310.1		A0A1B7SCW9	A0A1B7SCW9_9ASCO	unreviewed	Dol-P-Man:Man(5)GlcNAc(2)-PP-Dol alpha-1,3-mannosyltransferase (EC 2.4.1.258) (Dol-P-Man-dependent alpha(1-3)-mannosyltransferase)	OGAPODRAFT_90189	Ogataea polymorpha	454
+XP_018209379.1		A0A1B7SDB5	A0A1B7SDB5_9ASCO	unreviewed	Mannosyltransferase (EC 2.4.1.-)	OGAPODRAFT_102504	Ogataea polymorpha	568
+XP_018212147.1		A0A1B7SLK7	A0A1B7SLK7_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15639	Ogataea polymorpha	316
+XP_018208687.1		A0A1B7SB48	A0A1B7SB48_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_17423	Ogataea polymorpha	365
+XP_018212741.1		A0A1B7SN64	A0A1B7SN64_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_81917	Ogataea polymorpha	234
+XP_018209788.1		A0A1B7SEC6	A0A1B7SEC6_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_101292	Ogataea polymorpha	636
+XP_018212944.1		A0A1B7SP77	A0A1B7SP77_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_22591	Ogataea polymorpha	364
+XP_018211239.1		A0A1B7SIJ7	A0A1B7SIJ7_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16072	Ogataea polymorpha	630
+XP_018209479.1		A0A1B7SDJ0	A0A1B7SDJ0_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_95542	Ogataea polymorpha	443
+XP_018211661.1		A0A1B7SJT4	A0A1B7SJT4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_99689	Ogataea polymorpha	452
+XP_018210243.1		A0A1B7SFR9	A0A1B7SFR9_9ASCO	unreviewed	UDP-N-acetylglucosamine transferase subunit ALG13 (EC 2.4.1.141) (Asparagine-linked glycosylation protein 13)	ALG13 OGAPODRAFT_95098	Ogataea polymorpha	178
+XP_018210361.1		A0A1B7SG58	A0A1B7SG58_9ASCO	unreviewed	Glutamyl-tRNA(Gln) amidotransferase subunit B, mitochondrial (Glu-AdT subunit B) (EC 6.3.5.-)	PET112 OGAPODRAFT_93893	Ogataea polymorpha	484
+XP_018210027.1		A0A1B7SF14	A0A1B7SF14_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16907	Ogataea polymorpha	2057
+XP_018213362.1		A0A1B7SQD9	A0A1B7SQD9_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_97061	Ogataea polymorpha	650
+XP_018211129.1		A0A1B7SI90	A0A1B7SI90_9ASCO	unreviewed	Gluconokinase (EC 2.7.1.12)	OGAPODRAFT_93227	Ogataea polymorpha	163
+XP_018212550.1		A0A1B7SMN6	A0A1B7SMN6_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_75596	Ogataea polymorpha	305
+XP_018209979.1		A0A1B7SEW9	A0A1B7SEW9_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_101505	Ogataea polymorpha	1449
+XP_018211524.1		A0A1B7SJD3	A0A1B7SJD3_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16207	Ogataea polymorpha	1011
+XP_018213131.1		A0A1B7SPR2	A0A1B7SPR2_9ASCO	unreviewed	Uncharacterized protein (Fragment)	OGAPODRAFT_15214	Ogataea polymorpha	341
+XP_018210526.1		A0A1B7SGI1	A0A1B7SGI1_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16476	Ogataea polymorpha	290
+XP_018213199.1		A0A1B7SPW8	A0A1B7SPW8_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15255	Ogataea polymorpha	467
+XP_018210500.1		A0A1B7SGF5	A0A1B7SGF5_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_100208	Ogataea polymorpha	423
+XP_018213359.1		A0A1B7SQC2	A0A1B7SQC2_9ASCO	unreviewed	Kynureninase (EC 3.7.1.3) (Biosynthesis of nicotinic acid protein 5) (L-kynurenine hydrolase)	BNA5 OGAPODRAFT_15342	Ogataea polymorpha	358
+XP_018211955.1		A0A1B7SKY8	A0A1B7SKY8_9ASCO	unreviewed	Leukotriene A(4) hydrolase (LTA-4 hydrolase) (EC 3.3.2.10) (EC 3.4.11.-)	OGAPODRAFT_81446	Ogataea polymorpha	607
+XP_018209121.1		A0A1B7SCE1	A0A1B7SCE1_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_17090	Ogataea polymorpha	457
+XP_018213088.1		A0A1B7SPK6	A0A1B7SPK6_9ASCO	unreviewed	Histone-lysine N-methyltransferase (EC 2.1.1.43) (Fragment)	OGAPODRAFT_15195	Ogataea polymorpha	919
+XP_018212839.1		A0A1B7SNV2	A0A1B7SNV2_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15063	Ogataea polymorpha	932
+XP_018211549.1		A0A1B7SJF6	A0A1B7SJF6_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16221	Ogataea polymorpha	451
+XP_018213424.1		A0A1B7SQK3	A0A1B7SQK3_9ASCO	unreviewed	Mannose-1-phosphate guanyltransferase	OGAPODRAFT_92206	Ogataea polymorpha	364
+XP_018212542.1		A0A1B7SMT0	A0A1B7SMT0_9ASCO	unreviewed	Amine oxidase (EC 1.4.3.-)	OGAPODRAFT_86266	Ogataea polymorpha	692
+XP_018208544.1		A0A1B7SAR4	A0A1B7SAR4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_17359	Ogataea polymorpha	726
+XP_018208522.1		A0A1B7SAP7	A0A1B7SAP7_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_102982	Ogataea polymorpha	899
+XP_018210614.1		A0A1B7SGS7	A0A1B7SGS7_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_94126	Ogataea polymorpha	548
+XP_018212386.1		A0A1B7SM68	A0A1B7SM68_9ASCO	unreviewed	alpha-1,2-Mannosidase (EC 3.2.1.-)	OGAPODRAFT_81702	Ogataea polymorpha	589
+XP_018210750.1		A0A1B7SH33	A0A1B7SH33_9ASCO	unreviewed	alpha-1,2-Mannosidase (EC 3.2.1.-) (Fragment)	OGAPODRAFT_49391	Ogataea polymorpha	520
+XP_018209910.1		A0A1B7SER0	A0A1B7SER0_9ASCO	unreviewed	Uncharacterized protein (Fragment)	OGAPODRAFT_38221	Ogataea polymorpha	361
+XP_018212877.1		A0A1B7SP08	A0A1B7SP08_9ASCO	unreviewed	Uncharacterized protein (Fragment)	OGAPODRAFT_45822	Ogataea polymorpha	420
+XP_018211347.1		A0A1B7SIW2	A0A1B7SIW2_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_99236	Ogataea polymorpha	749
+XP_018212463.1		A0A1B7SMD9	A0A1B7SMD9_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15832	Ogataea polymorpha	345
+XP_018211344.1		A0A1B7SIW1	A0A1B7SIW1_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16127	Ogataea polymorpha	398
+XP_018210157.1		A0A1B7SFE0	A0A1B7SFE0_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16979	Ogataea polymorpha	401
+XP_018209645.1		A0A1B7SDZ2	A0A1B7SDZ2_9ASCO	unreviewed	Calcium-transporting ATPase (EC 3.6.3.8)	OGAPODRAFT_16732	Ogataea polymorpha	1166
+XP_018210778.1		A0A1B7SH77	A0A1B7SH77_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_88384	Ogataea polymorpha	443
+XP_018210693.1		A0A1B7SGX8	A0A1B7SGX8_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16553	Ogataea polymorpha	1091
+XP_018213404.1		A0A1B7SQI6	A0A1B7SQI6_9ASCO	unreviewed	Phospholipid-transporting ATPase (EC 3.6.3.1)	OGAPODRAFT_15369	Ogataea polymorpha	1152
+XP_018210133.1		A0A1B7SFG1	A0A1B7SFG1_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_101659	Ogataea polymorpha	530
+XP_018212182.1		A0A1B7SLR1	A0A1B7SLR1_9ASCO	unreviewed	Phospholipid-transporting ATPase (EC 3.6.3.1)	OGAPODRAFT_75314	Ogataea polymorpha	1614
+XP_018212996.1		A0A1B7SPB2	A0A1B7SPB2_9ASCO	unreviewed	Phospholipid-transporting ATPase (EC 3.6.3.1)	OGAPODRAFT_15144	Ogataea polymorpha	1580
+XP_018209200.1		A0A1B7SCL4	A0A1B7SCL4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_17125	Ogataea polymorpha	1001
+XP_018212698.1		A0A1B7SN45	A0A1B7SN45_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15944	Ogataea polymorpha	744
+XP_018209311.1		A0A1B7SCZ2	A0A1B7SCZ2_9ASCO	unreviewed	Phospholipid-transporting ATPase (EC 3.6.3.1)	OGAPODRAFT_102407	Ogataea polymorpha	1376
+XP_018208630.1		A0A1B7SB11	A0A1B7SB11_9ASCO	unreviewed	Heat shock protein SSB1	OGAPODRAFT_17393	Ogataea polymorpha	613
+XP_018208510.1		A0A1B7SAN9	A0A1B7SAN9_9ASCO	unreviewed	26S protease regulatory subunit 6B	OGAPODRAFT_90750	Ogataea polymorpha	417
+XP_018210629.1		A0A1B7SGR6	A0A1B7SGR6_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16518	Ogataea polymorpha	608
+XP_018209728.1		A0A1B7SE69	A0A1B7SE69_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_101226	Ogataea polymorpha	379
+XP_018210540.1		A0A1B7SGJ5	A0A1B7SGJ5_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16482	Ogataea polymorpha	614
+XP_018213571.1		A0A1B7SR05	A0A1B7SR05_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_97405	Ogataea polymorpha	442
+XP_018213576.1		A0A1B7SQX8	A0A1B7SQX8_9ASCO	unreviewed	One of six ATPases of the 19S regulatory particle of the 26S proteasome	OGAPODRAFT_81366	Ogataea polymorpha	432
+XP_018212119.1		A0A1B7SLE2	A0A1B7SLE2_9ASCO	unreviewed	Obg-like ATPase 1	OLA1 OGAPODRAFT_81545	Ogataea polymorpha	395
+XP_018209457.1		A0A1B7SDC0	A0A1B7SDC0_9ASCO	unreviewed	26S proteasome regulatory subunit	OGAPODRAFT_90434	Ogataea polymorpha	426
+XP_018210130.1		A0A1B7SFB8	A0A1B7SFB8_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16968	Ogataea polymorpha	422
+XP_018210659.1		A0A1B7SGU9	A0A1B7SGU9_9ASCO	unreviewed	Uncharacterized protein (Fragment)	OGAPODRAFT_16537	Ogataea polymorpha	476
+XP_018213574.1		A0A1B7SR06	A0A1B7SR06_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15472	Ogataea polymorpha	978
+XP_018208836.1		A0A1B7SBJ4	A0A1B7SBJ4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_17508	Ogataea polymorpha	665
+XP_018208639.1		A0A1B7SB09	A0A1B7SB09_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_90977	Ogataea polymorpha	643
+XP_018211871.1		A0A1B7SKP3	A0A1B7SKP3_9ASCO	unreviewed	Cation-transporting ATPase (EC 3.6.3.-)	OGAPODRAFT_81398	Ogataea polymorpha	1235
+XP_018213488.1		A0A1B7SQR3	A0A1B7SQR3_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15430	Ogataea polymorpha	832
+XP_018208597.1		A0A1B7SAV4	A0A1B7SAV4_9ASCO	unreviewed	Calcium-transporting ATPase (EC 3.6.3.8)	OGAPODRAFT_17380	Ogataea polymorpha	896
+XP_018210205.1		A0A1B7SFK0	A0A1B7SFK0_9ASCO	unreviewed	Phospholipid-transporting ATPase (EC 3.6.3.1)	OGAPODRAFT_17000	Ogataea polymorpha	1260
+XP_018211868.1		A0A1B7SKP1	A0A1B7SKP1_9ASCO	unreviewed	Mitochondrial matrix ATPase	OGAPODRAFT_15495	Ogataea polymorpha	643
+XP_018209388.1		A0A1B7SD65	A0A1B7SD65_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_95456	Ogataea polymorpha	938
+XP_018213234.1		A0A1B7SQ23	A0A1B7SQ23_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_22788	Ogataea polymorpha	689
+XP_018208624.1		A0A1B7SAZ4	A0A1B7SAZ4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_103146	Ogataea polymorpha	211
+XP_018210793.1		A0A1B7SH80	A0A1B7SH80_9ASCO	unreviewed	Inosine triphosphate pyrophosphatase (ITPase) (Inosine triphosphatase) (EC 3.6.1.9) (Non-canonical purine NTP pyrophosphatase) (Non-standard purine NTP pyrophosphatase) (Nucleoside-triphosphate diphosphatase) (Nucleoside-triphosphate pyrophosphatase) (NTPase)	HAM1 OGAPODRAFT_82677	Ogataea polymorpha	198
+XP_018209636.1		A0A1B7SDZ7	A0A1B7SDZ7_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_88885	Ogataea polymorpha	1323
+XP_018212717.1		A0A1B7SN66	A0A1B7SN66_9ASCO	unreviewed	Acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12)	OGAPODRAFT_15951	Ogataea polymorpha	467
+XP_018208902.1		A0A1B7SBR5	A0A1B7SBR5_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_17532	Ogataea polymorpha	446
+XP_018212174.1		A0A1B7SLK8	A0A1B7SLK8_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15670	Ogataea polymorpha	366
+XP_018209850.1		A0A1B7SEK3	A0A1B7SEK3_9ASCO	unreviewed	Pyruvate dehydrogenase E1 component subunit alpha (EC 1.2.4.1)	OGAPODRAFT_16822	Ogataea polymorpha	394
+XP_018210378.1		A0A1B7SG38	A0A1B7SG38_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16409	Ogataea polymorpha	338
+XP_018212178.1		A0A1B7SLK0	A0A1B7SLK0_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_81583	Ogataea polymorpha	436
+XP_018209340.1		A0A1B7SD01	A0A1B7SD01_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_77738	Ogataea polymorpha	604
+XP_018210655.1		A0A1B7SGU2	A0A1B7SGU2_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16536	Ogataea polymorpha	301
+XP_018209960.1		A0A1B7SEV6	A0A1B7SEV6_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_101483	Ogataea polymorpha	662
+XP_018209714.1		A0A1B7SE72	A0A1B7SE72_9ASCO	unreviewed	Aldehyde dehydrogenase	OGAPODRAFT_16764	Ogataea polymorpha	518
+XP_018209291.1		A0A1B7SCX1	A0A1B7SCX1_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_17164	Ogataea polymorpha	640
+XP_018209966.1		A0A1B7SEW6	A0A1B7SEW6_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_89277	Ogataea polymorpha	460
+XP_018212164.1		A0A1B7SLJ8	A0A1B7SLJ8_9ASCO	unreviewed	Superoxide dismutase [Cu-Zn] (EC 1.15.1.1)	OGAPODRAFT_15662	Ogataea polymorpha	154
+XP_018212649.1		A0A1B7SMX7	A0A1B7SMX7_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_93067	Ogataea polymorpha	236
+XP_018211698.1		A0A1B7SJX7	A0A1B7SJX7_9ASCO	unreviewed	Uncharacterized protein (Fragment)	OGAPODRAFT_40331	Ogataea polymorpha	229
+XP_018213535.1		A0A1B7SQV0	A0A1B7SQV0_9ASCO	unreviewed	Superoxide dismutase (EC 1.15.1.1)	OGAPODRAFT_15457	Ogataea polymorpha	229
+XP_018212166.1		A0A1B7SLJ7	A0A1B7SLJ7_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15664	Ogataea polymorpha	220
+XP_018208547.1		A0A1B7SAQ6	A0A1B7SAQ6_9ASCO	unreviewed	Tryptophan synthase (EC 4.2.1.20)	OGAPODRAFT_17363	Ogataea polymorpha	701
+XP_018208697.1		A0A1B7SB55	A0A1B7SB55_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_95867	Ogataea polymorpha	311
+XP_018209005.1		A0A1B7SC13	A0A1B7SC13_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_78322	Ogataea polymorpha	651
+XP_018212507.1		A0A1B7SMK8	A0A1B7SMK8_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_81781	Ogataea polymorpha	432
+XP_018212781.1		A0A1B7SNQ7	A0A1B7SNQ7_9ASCO	unreviewed	3-hydroxyisobutyryl-CoA hydrolase, mitochondrial (EC 3.1.2.4) (3-hydroxyisobutyryl-coenzyme A hydrolase)	OGAPODRAFT_15038	Ogataea polymorpha	508
+XP_018209599.1		A0A1B7SDT6	A0A1B7SDT6_9ASCO	unreviewed	NADH-cytochrome b5 reductase (EC 1.6.2.2)	OGAPODRAFT_50531	Ogataea polymorpha	304
+XP_018212582.1		A0A1B7SMW4	A0A1B7SMW4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_86341	Ogataea polymorpha	415
+XP_018212197.1		A0A1B7SLQ0	A0A1B7SLQ0_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_81595	Ogataea polymorpha	267
+XP_018208873.1		A0A1B7SBP3	A0A1B7SBP3_9ASCO	unreviewed	Isocitrate lyase	OGAPODRAFT_17519	Ogataea polymorpha	548
+XP_018211476.1		A0A1B7SJC3	A0A1B7SJC3_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16186	Ogataea polymorpha	373
+XP_018208708.1		A0A1B7SB65	A0A1B7SB65_9ASCO	unreviewed	3-isopropylmalate dehydrogenase (EC 1.1.1.85)	OGAPODRAFT_17429	Ogataea polymorpha	362
+XP_018211821.1		A0A1B7SK90	A0A1B7SK90_9ASCO	unreviewed	Uncharacterized protein (Fragment)	OGAPODRAFT_38952	Ogataea polymorpha	197
+XP_018212678.1		A0A1B7SN23	A0A1B7SN23_9ASCO	unreviewed	tRNA dimethylallyltransferase (EC 2.5.1.75)	OGAPODRAFT_98709	Ogataea polymorpha	416
+XP_018213559.1		A0A1B7SQX3	A0A1B7SQX3_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_85162	Ogataea polymorpha	667
+XP_018209740.1		A0A1B7SE88	A0A1B7SE88_9ASCO	unreviewed	Phosphoinositide phospholipase C (EC 3.1.4.11)	OGAPODRAFT_101240	Ogataea polymorpha	764
+XP_018213539.1		A0A1B7SQV5	A0A1B7SQV5_9ASCO	unreviewed	Phospholipase (EC 3.1.4.4)	OGAPODRAFT_97364	Ogataea polymorpha	1389
+XP_018209757.1		A0A1B7SE94	A0A1B7SE94_9ASCO	unreviewed	Uricase (EC 1.7.3.3) (Urate oxidase)	OGAPODRAFT_16781	Ogataea polymorpha	302
+XP_018211007.1		A0A1B7SHX1	A0A1B7SHX1_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_88763	Ogataea polymorpha	1512
+XP_018212198.1		A0A1B7SLM2	A0A1B7SLM2_9ASCO	unreviewed	Alpha-1,4 glucan phosphorylase (EC 2.4.1.1)	OGAPODRAFT_15696	Ogataea polymorpha	860
+XP_018210338.1		A0A1B7SFZ6	A0A1B7SFZ6_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16393	Ogataea polymorpha	701
+XP_018213016.1		A0A1B7SPD4	A0A1B7SPD4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15152	Ogataea polymorpha	860
+XP_018209360.1		A0A1B7SD23	A0A1B7SD23_9ASCO	unreviewed	Acyl-CoA desaturase (EC 1.14.19.1)	OGAPODRAFT_17196	Ogataea polymorpha	511
+XP_018209579.1		A0A1B7SDU1	A0A1B7SDU1_9ASCO	unreviewed	Uncharacterized protein (Fragment)	OGAPODRAFT_38129	Ogataea polymorpha	315
+XP_018209789.1		A0A1B7SEC4	A0A1B7SEC4_9ASCO	unreviewed	Cytochrome c heme lyase (EC 4.4.1.17)	OGAPODRAFT_13669	Ogataea polymorpha	256
+XP_018210574.1		A0A1B7SGN7	A0A1B7SGN7_9ASCO	unreviewed	DNA primase large subunit (EC 2.7.7.-)	OGAPODRAFT_100320	Ogataea polymorpha	514
+XP_018211158.1		A0A1B7SIF1	A0A1B7SIF1_9ASCO	unreviewed	Phosphotransferase (EC 2.7.1.-)	OGAPODRAFT_75844	Ogataea polymorpha	405
+XP_018209168.1		A0A1B7SCK1	A0A1B7SCK1_9ASCO	unreviewed	Phosphotransferase (EC 2.7.1.-)	OGAPODRAFT_51058	Ogataea polymorpha	483
+XP_018208698.1		A0A1B7SB61	A0A1B7SB61_9ASCO	unreviewed	Pseudouridine synthase (EC 5.4.99.-)	OGAPODRAFT_95868	Ogataea polymorpha	350
+XP_018210011.1		A0A1B7SEY9	A0A1B7SEY9_9ASCO	unreviewed	tRNA-dihydrouridine(47) synthase [NAD(P)(+)] (EC 1.3.1.-) (EC 1.3.1.89) (tRNA-dihydrouridine synthase 3)	OGAPODRAFT_50275	Ogataea polymorpha	618
+XP_018211531.1		A0A1B7SJE9	A0A1B7SJE9_9ASCO	unreviewed	Centromere/microtubule-binding protein CBF5	OGAPODRAFT_93590	Ogataea polymorpha	473
+XP_018210543.1		A0A1B7SGH8	A0A1B7SGH8_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_94058	Ogataea polymorpha	612
+XP_018212089.1		A0A1B7SLA9	A0A1B7SLA9_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15610	Ogataea polymorpha	299
+XP_018213515.1		A0A1B7SQS9	A0A1B7SQS9_9ASCO	unreviewed	Acetolactate synthase (EC 2.2.1.6)	OGAPODRAFT_15448	Ogataea polymorpha	656
+XP_018213276.1		A0A1B7SQ36	A0A1B7SQ36_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_6244	Ogataea polymorpha	271
+XP_018212732.1		A0A1B7SN98	A0A1B7SN98_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_86569	Ogataea polymorpha	340
+XP_018212939.1		A0A1B7SP58	A0A1B7SP58_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15117	Ogataea polymorpha	494
+XP_018211111.1		A0A1B7SI95	A0A1B7SI95_9ASCO	unreviewed	Signal peptidase complex catalytic subunit SEC11 (EC 3.4.21.89)	OGAPODRAFT_98907	Ogataea polymorpha	161
+XP_018212997.1		A0A1B7SPC6	A0A1B7SPC6_9ASCO	unreviewed	Signal peptidase subunit 3 (EC 3.4.-.-)	OGAPODRAFT_91816	Ogataea polymorpha	180
+XP_018211460.1		A0A1B7SJ88	A0A1B7SJ88_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16181	Ogataea polymorpha	606
+XP_018209936.1		A0A1B7SEU2	A0A1B7SEU2_9ASCO	unreviewed	Uroporphyrinogen decarboxylase (EC 4.1.1.37)	OGAPODRAFT_94825	Ogataea polymorpha	359
+XP_018213409.1		A0A1B7SQH2	A0A1B7SQH2_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15371	Ogataea polymorpha	643
+XP_018211691.1		A0A1B7SJW5	A0A1B7SJW5_9ASCO	unreviewed	Ditrans,polycis-polyprenyl diphosphate synthase ((2E,6E)-farnesyl diphosphate specific) (EC 2.5.1.87)	OGAPODRAFT_16304	Ogataea polymorpha	235
+XP_018212992.1		A0A1B7SPC4	A0A1B7SPC4_9ASCO	unreviewed	Ditrans,polycis-polyprenyl diphosphate synthase ((2E,6E)-farnesyl diphosphate specific) (EC 2.5.1.87)	OGAPODRAFT_15141	Ogataea polymorpha	264
+XP_018210812.1		A0A1B7SHA1	A0A1B7SHA1_9ASCO	unreviewed	GPI-anchored wall transfer protein (EC 2.3.-.-)	OGAPODRAFT_82690	Ogataea polymorpha	467
+XP_018212015.1		A0A1B7SL45	A0A1B7SL45_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_6718	Ogataea polymorpha	384
+XP_018211764.1		A0A1B7SK39	A0A1B7SK39_9ASCO	unreviewed	5-hydroxyisourate hydrolase (HIU hydrolase) (HIUHase) (EC 3.5.2.17)	OGAPODRAFT_93790	Ogataea polymorpha	129
+XP_018209471.1		A0A1B7SDE8	A0A1B7SDE8_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_51202	Ogataea polymorpha	523
+XP_018211132.1		A0A1B7SIA8	A0A1B7SIA8_9ASCO	unreviewed	1,2-dihydroxy-3-keto-5-methylthiopentene dioxygenase (EC 1.13.11.54) (Acireductone dioxygenase (Fe(2+)-requiring)) (ARD) (Fe-ARD)	ADI1 OGAPODRAFT_16006	Ogataea polymorpha	178
+XP_018209971.1		A0A1B7SEU9	A0A1B7SEU9_9ASCO	unreviewed	Enolase-phosphatase E1 (EC 3.1.3.77) (2,3-diketo-5-methylthio-1-phosphopentane phosphatase)	UTR4 OGAPODRAFT_77236	Ogataea polymorpha	240
+XP_018208709.1		A0A1B7SB89	A0A1B7SB89_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_17430	Ogataea polymorpha	457
+XP_018212204.1		A0A1B7SLP2	A0A1B7SLP2_9ASCO	unreviewed	Octanoyltransferase (EC 2.3.1.181)	OGAPODRAFT_97999	Ogataea polymorpha	213
+XP_018212971.1		A0A1B7SPA4	A0A1B7SPA4_9ASCO	unreviewed	Lipoyl synthase, mitochondrial (EC 2.8.1.8) (Lipoate synthase) (LS) (Lip-syn) (Lipoic acid synthase)	OGAPODRAFT_15133	Ogataea polymorpha	376
+XP_018210074.1		A0A1B7SF78	A0A1B7SF78_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16923	Ogataea polymorpha	321
+XP_018210087.1		A0A1B7SF74	A0A1B7SF74_9ASCO	unreviewed	Cytosolic seryl-tRNA synthetase	OGAPODRAFT_16933	Ogataea polymorpha	464
+XP_018209136.1		A0A1B7SCF9	A0A1B7SCF9_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_102122	Ogataea polymorpha	292
+XP_018212045.1		A0A1B7SL74	A0A1B7SL74_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_92536	Ogataea polymorpha	367
+XP_018209264.1		A0A1B7SCT6	A0A1B7SCT6_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_102327	Ogataea polymorpha	428
+XP_018209848.1		A0A1B7SEI0	A0A1B7SEI0_9ASCO	unreviewed	Alpha-mannosidase (EC 3.2.1.-)	OGAPODRAFT_101342	Ogataea polymorpha	1065
+XP_018208876.1		A0A1B7SBN2	A0A1B7SBN2_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_17521	Ogataea polymorpha	395
+XP_018213082.1		A0A1B7SPK9	A0A1B7SPK9_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_44972	Ogataea polymorpha	374
+XP_018210787.1		A0A1B7SHA4	A0A1B7SHA4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16599	Ogataea polymorpha	440
+XP_018211294.1		A0A1B7SIQ9	A0A1B7SIQ9_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_82074	Ogataea polymorpha	714
+XP_018210484.1		A0A1B7SGE9	A0A1B7SGE9_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16458	Ogataea polymorpha	263
+XP_018212526.1		A0A1B7SMK5	A0A1B7SMK5_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15863	Ogataea polymorpha	355
+XP_018209178.1		A0A1B7SCL1	A0A1B7SCL1_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_17115	Ogataea polymorpha	402
+XP_018213160.1		A0A1B7SPR8	A0A1B7SPR8_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_96740	Ogataea polymorpha	518
+XP_018208659.1		A0A1B7SB28	A0A1B7SB28_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_91005	Ogataea polymorpha	493
+XP_018210156.1		A0A1B7SFF7	A0A1B7SFF7_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_24938	Ogataea polymorpha	314
+XP_018211138.1		A0A1B7SID0	A0A1B7SID0_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_98944	Ogataea polymorpha	345
+XP_018211000.1		A0A1B7SHS7	A0A1B7SHS7_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16692	Ogataea polymorpha	321
+XP_018209802.1		A0A1B7SEE0	A0A1B7SEE0_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_50282	Ogataea polymorpha	287
+XP_018211573.1		A0A1B7SJL1	A0A1B7SJL1_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16239	Ogataea polymorpha	287
+XP_018212138.1		A0A1B7SLG5	A0A1B7SLG5_9ASCO	unreviewed	4-hydroxyphenylpyruvate dioxygenase	OGAPODRAFT_15634	Ogataea polymorpha	435
+XP_018213476.1		A0A1B7SQN2	A0A1B7SQN2_9ASCO	unreviewed	Hansenula yellow enzyme 2	OGAPODRAFT_81304	Ogataea polymorpha	402
+XP_018210871.1		A0A1B7SHR5	A0A1B7SHR5_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_88534	Ogataea polymorpha	214
+XP_018209060.1		A0A1B7SC80	A0A1B7SC80_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_50808	Ogataea polymorpha	234
+XP_018209383.1		A0A1B7SD68	A0A1B7SD68_9ASCO	unreviewed	DNA-directed RNA polymerase subunit	OGAPODRAFT_17209	Ogataea polymorpha	102
+XP_018211569.1		A0A1B7SJH3	A0A1B7SJH3_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_76161	Ogataea polymorpha	224
+XP_018211791.1		A0A1B7SK62	A0A1B7SK62_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_99896	Ogataea polymorpha	398
+XP_018213415.1		A0A1B7SQI7	A0A1B7SQI7_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15374	Ogataea polymorpha	284
+XP_018211630.1		A0A1B7SJR8	A0A1B7SJR8_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_93662	Ogataea polymorpha	633
+XP_018211645.1		A0A1B7SJZ5	A0A1B7SJZ5_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16287	Ogataea polymorpha	1493
+XP_018211704.1		A0A1B7SJX3	A0A1B7SJX3_9ASCO	unreviewed	DNA-directed RNA polymerase subunit beta (EC 2.7.7.6)	OGAPODRAFT_16312	Ogataea polymorpha	1275
+XP_018210475.1		A0A1B7SGB3	A0A1B7SGB3_9ASCO	unreviewed	DNA-directed RNA polymerase subunit	OGAPODRAFT_49058	Ogataea polymorpha	123
+XP_018211889.1		A0A1B7SKR0	A0A1B7SKR0_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_75067	Ogataea polymorpha	335
+XP_018213012.1		A0A1B7SPE3	A0A1B7SPE3_9ASCO	unreviewed	DNA-directed RNA polymerase subunit beta (EC 2.7.7.6)	OGAPODRAFT_80996	Ogataea polymorpha	1166
+XP_018213469.1		A0A1B7SQN5	A0A1B7SQN5_9ASCO	unreviewed	Uncharacterized protein (Fragment)	OGAPODRAFT_15413	Ogataea polymorpha	120
+XP_018209461.1		A0A1B7SDD2	A0A1B7SDD2_9ASCO	unreviewed	DNA-directed RNA polymerase III subunit RPC6 (RNA polymerase III subunit C6)	OGAPODRAFT_17254	Ogataea polymorpha	299
+XP_018209454.1		A0A1B7SDC4	A0A1B7SDC4_9ASCO	unreviewed	DNA-directed RNA polymerase subunit (EC 2.7.7.6)	OGAPODRAFT_17249	Ogataea polymorpha	1412
+XP_018211454.1		A0A1B7SJ62	A0A1B7SJ62_9ASCO	unreviewed	DNA-directed RNA polymerase subunit beta (EC 2.7.7.6)	OGAPODRAFT_99376	Ogataea polymorpha	1138
+XP_018209232.1		A0A1B7SCQ0	A0A1B7SCQ0_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_17141	Ogataea polymorpha	587
+XP_018213572.1		A0A1B7SR07	A0A1B7SR07_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_85180	Ogataea polymorpha	206
+XP_018209439.1		A0A1B7SDF2	A0A1B7SDF2_9ASCO	unreviewed	DNA-directed RNA polymerase subunit	OGAPODRAFT_25299	Ogataea polymorpha	111
+XP_018211626.1		A0A1B7SJS4	A0A1B7SJS4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16276	Ogataea polymorpha	151
+XP_018212962.1		A0A1B7SP90	A0A1B7SP90_9ASCO	unreviewed	DNA-directed RNA polymerases I, II, and III subunit RPABC3	OGAPODRAFT_96460	Ogataea polymorpha	148
+XP_018212319.1		A0A1B7SLZ2	A0A1B7SLZ2_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_92781	Ogataea polymorpha	189
+XP_018211590.1		A0A1B7SJM8	A0A1B7SJM8_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16253	Ogataea polymorpha	214
+XP_018211093.1		A0A1B7SI72	A0A1B7SI72_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_98881	Ogataea polymorpha	123
+XP_018209661.1		A0A1B7SDZ3	A0A1B7SDZ3_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_8964	Ogataea polymorpha	295
+XP_018209652.1		A0A1B7SDY4	A0A1B7SDY4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16733	Ogataea polymorpha	276
+XP_018211702.1		A0A1B7SJX5	A0A1B7SJX5_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16310	Ogataea polymorpha	151
+XP_018211958.1		A0A1B7SKY5	A0A1B7SKY5_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15544	Ogataea polymorpha	644
+XP_018209664.1		A0A1B7SE16	A0A1B7SE16_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16737	Ogataea polymorpha	1138
+XP_018209117.1		A0A1B7SCD5	A0A1B7SCD5_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_51063	Ogataea polymorpha	962
+XP_018211363.1		A0A1B7SJ07	A0A1B7SJ07_9ASCO	unreviewed	DNA polymerase (EC 2.7.7.7)	OGAPODRAFT_93434	Ogataea polymorpha	1102
+XP_018210754.1		A0A1B7SH72	A0A1B7SH72_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_76713	Ogataea polymorpha	218
+XP_018212867.1		A0A1B7SNZ8	A0A1B7SNZ8_9ASCO	unreviewed	DNA polymerase (EC 2.7.7.7)	OGAPODRAFT_10782	Ogataea polymorpha	1706
+XP_018209866.1		A0A1B7SEM6	A0A1B7SEM6_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_77158	Ogataea polymorpha	581
+XP_018210927.1		A0A1B7SHP4	A0A1B7SHP4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16663	Ogataea polymorpha	569
+XP_018213495.1		A0A1B7SQQ8	A0A1B7SQQ8_9ASCO	unreviewed	DNA polymerase epsilon catalytic subunit (EC 2.7.7.7) (Fragment)	OGAPODRAFT_85071	Ogataea polymorpha	2093
+XP_018210863.1		A0A1B7SHE1	A0A1B7SHE1_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16642	Ogataea polymorpha	381
+XP_018211314.1		A0A1B7SIS6	A0A1B7SIS6_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_23796	Ogataea polymorpha	430
+XP_018209800.1		A0A1B7SEF0	A0A1B7SEF0_9ASCO	unreviewed	DNA primase (EC 2.7.7.-)	OGAPODRAFT_82947	Ogataea polymorpha	429
+XP_018212262.1		A0A1B7SLZ6	A0A1B7SLZ6_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15724	Ogataea polymorpha	816
+XP_018211445.1		A0A1B7SJG5	A0A1B7SJG5_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16173	Ogataea polymorpha	279
+XP_018211458.1		A0A1B7SJA7	A0A1B7SJA7_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_93522	Ogataea polymorpha	638
+XP_018211275.1		A0A1B7SIX2	A0A1B7SIX2_9ASCO	unreviewed	Uncharacterized protein (Fragment)	OGAPODRAFT_41784	Ogataea polymorpha	860
+XP_018212956.1		A0A1B7SP72	A0A1B7SP72_9ASCO	unreviewed	Phosphatidylserine decarboxylase proenzyme 2 (EC 4.1.1.65) [Cleaved into: Phosphatidylserine decarboxylase 2 beta chain; Phosphatidylserine decarboxylase 2 alpha chain]	PSD2 OGAPODRAFT_80959	Ogataea polymorpha	1009
+XP_018209621.1		A0A1B7SDV4	A0A1B7SDV4_9ASCO	unreviewed	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)	OGAPODRAFT_49985	Ogataea polymorpha	493
+XP_018210931.1		A0A1B7SHX2	A0A1B7SHX2_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_100864	Ogataea polymorpha	484
+XP_018212934.1		A0A1B7SP66	A0A1B7SP66_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15108	Ogataea polymorpha	310
+XP_018212437.1		A0A1B7SMD7	A0A1B7SMD7_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_75503	Ogataea polymorpha	1840
+XP_018211927.1		A0A1B7SKY0	A0A1B7SKY0_9ASCO	unreviewed	Elongation of fatty acids protein (EC 2.3.1.199) (Very-long-chain 3-oxoacyl-CoA synthase)	OGAPODRAFT_85337	Ogataea polymorpha	344
+XP_018211513.1		A0A1B7SJF7	A0A1B7SJF7_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_93573	Ogataea polymorpha	1808
+XP_018212186.1		A0A1B7SLL5	A0A1B7SLL5_9ASCO	unreviewed	Catalytic subunit of 1,3-beta-D-glucan synthase	OGAPODRAFT_15687	Ogataea polymorpha	1871
+XP_018212436.1		A0A1B7SMB5	A0A1B7SMB5_9ASCO	unreviewed	1,3-beta-glucanosyltransferase (EC 2.4.1.-)	OGAPODRAFT_15815	Ogataea polymorpha	546
+XP_018213323.1		A0A1B7SQ97	A0A1B7SQ97_9ASCO	unreviewed	1,3-beta-glucanosyltransferase (EC 2.4.1.-)	OGAPODRAFT_97023	Ogataea polymorpha	435
+XP_018211992.1		A0A1B7SL80	A0A1B7SL80_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_97665	Ogataea polymorpha	301
+XP_018212963.1		A0A1B7SP80	A0A1B7SP80_9ASCO	unreviewed	3-hydroxyanthranilate 3,4-dioxygenase (EC 1.13.11.6) (3-hydroxyanthranilate oxygenase) (3-HAO) (3-hydroxyanthranilic acid dioxygenase) (HAD) (Biosynthesis of nicotinic acid protein 1)	BNA1 OGAPODRAFT_84229	Ogataea polymorpha	170
+XP_018210581.1		A0A1B7SGX7	A0A1B7SGX7_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16497	Ogataea polymorpha	1593
+XP_018213013.1		A0A1B7SPC8	A0A1B7SPC8_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_91830	Ogataea polymorpha	152
+XP_018211235.1		A0A1B7SIT9	A0A1B7SIT9_9ASCO	unreviewed	Phosphoacetylglucosamine mutase (PAGM) (EC 5.4.2.3) (Acetylglucosamine phosphomutase) (N-acetylglucosamine-phosphate mutase)	OGAPODRAFT_75900	Ogataea polymorpha	522
+XP_018210455.1		A0A1B7SG92	A0A1B7SG92_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16445	Ogataea polymorpha	694
+XP_018209901.1		A0A1B7SEM7	A0A1B7SEM7_9ASCO	unreviewed	Amino-acid acetyltransferase, mitochondrial (EC 2.3.1.1) (Glutamate N-acetyltransferase) (N-acetylglutamate synthase)	OGAPODRAFT_94791	Ogataea polymorpha	533
+XP_018211673.1		A0A1B7SJV2	A0A1B7SJV2_9ASCO	unreviewed	Arginine biosynthesis bifunctional protein ArgJ, mitochondrial [Cleaved into: Arginine biosynthesis bifunctional protein ArgJ beta chain; Arginine biosynthesis bifunctional protein ArgJ alpha chain] [Includes: Glutamate N-acetyltransferase (GAT) (EC 2.3.1.35) (Ornithine acetyltransferase) (OATase) (Ornithine transacetylase); Amino-acid acetyltransferase (EC 2.3.1.1) (N-acetylglutamate synthase) (AGS)]	OGAPODRAFT_93702	Ogataea polymorpha	425
+XP_018209110.1		A0A1B7SCD0	A0A1B7SCD0_9ASCO	unreviewed	Fatty acid synthetase beta subunit	OGAPODRAFT_89872	Ogataea polymorpha	2060
+XP_018211576.1		A0A1B7SJM0	A0A1B7SJM0_9ASCO	unreviewed	Fatty acid synthase alpha subunit	OGAPODRAFT_16241	Ogataea polymorpha	1711
+XP_018212568.1		A0A1B7SMQ2	A0A1B7SMQ2_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_92990	Ogataea polymorpha	310
+XP_018208811.1		A0A1B7SBG5	A0A1B7SBG5_9ASCO	unreviewed	Aconitate hydratase, mitochondrial (Aconitase) (EC 4.2.1.-)	OGAPODRAFT_17490	Ogataea polymorpha	781
+XP_018211237.1		A0A1B7SIJ3	A0A1B7SIJ3_9ASCO	unreviewed	Aconitate hydratase, mitochondrial (Aconitase) (EC 4.2.1.-)	OGAPODRAFT_86856	Ogataea polymorpha	790
+XP_018212148.1		A0A1B7SLH3	A0A1B7SLH3_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_97907	Ogataea polymorpha	432
+XP_018213445.1		A0A1B7SQL6	A0A1B7SQL6_9ASCO	unreviewed	Acetyl-coenzyme A synthetase (EC 6.2.1.1)	OGAPODRAFT_15387	Ogataea polymorpha	673
+XP_018213526.1		A0A1B7SQT4	A0A1B7SQT4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_92301	Ogataea polymorpha	272
+XP_018209635.1		A0A1B7SDY2	A0A1B7SDY2_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_101109	Ogataea polymorpha	682
+XP_018209137.1		A0A1B7SCF5	A0A1B7SCF5_9ASCO	unreviewed	S-adenosylmethionine decarboxylase proenzyme (EC 4.1.1.50)	OGAPODRAFT_17098	Ogataea polymorpha	397
+XP_018213546.1		A0A1B7SQV4	A0A1B7SQV4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_74996	Ogataea polymorpha	344
+XP_018210159.1		A0A1B7SFE8	A0A1B7SFE8_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_83150	Ogataea polymorpha	191
+XP_018209246.1		A0A1B7SCT4	A0A1B7SCT4_9ASCO	unreviewed	Adenylyl-sulfate kinase (EC 2.7.1.25)	OGAPODRAFT_25166	Ogataea polymorpha	200
+XP_018211804.1		A0A1B7SK70	A0A1B7SK70_9ASCO	unreviewed	Adenylosuccinate lyase (ASL) (EC 4.3.2.2) (Adenylosuccinase)	OGAPODRAFT_16362	Ogataea polymorpha	463
+XP_018212194.1		A0A1B7SLM9	A0A1B7SLM9_9ASCO	unreviewed	Adenylosuccinate synthetase (AMPSase) (AdSS) (EC 6.3.4.4) (IMP--aspartate ligase)	OGAPODRAFT_15693	Ogataea polymorpha	428
+XP_018212367.1		A0A1B7SM70	A0A1B7SM70_9ASCO	unreviewed	1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51) (Fragment)	OGAPODRAFT_15775	Ogataea polymorpha	203
+XP_018213063.1		A0A1B7SPH8	A0A1B7SPH8_9ASCO	unreviewed	Adenosylhomocysteinase (EC 3.3.1.1)	OGAPODRAFT_15178	Ogataea polymorpha	420
+XP_018212185.1		A0A1B7SLL4	A0A1B7SLL4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15686	Ogataea polymorpha	531
+XP_018211752.1		A0A1B7SK22	A0A1B7SK22_9ASCO	unreviewed	Phosphoribosylaminoimidazole carboxylase	OGAPODRAFT_16332	Ogataea polymorpha	551
+XP_018209241.1		A0A1B7SCR7	A0A1B7SCR7_9ASCO	unreviewed	5-aminolevulinate synthase (EC 2.3.1.37) (5-aminolevulinic acid synthase) (Delta-ALA synthase) (Delta-aminolevulinate synthase)	OGAPODRAFT_17147	Ogataea polymorpha	561
+XP_018212815.1		A0A1B7SNT5	A0A1B7SNT5_9ASCO	unreviewed	Alanine--tRNA ligase (EC 6.1.1.7) (Alanyl-tRNA synthetase) (AlaRS)	ALA1 OGAPODRAFT_15056	Ogataea polymorpha	954
+XP_018209348.1		A0A1B7SD22	A0A1B7SD22_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_95435	Ogataea polymorpha	631
+XP_018208501.1		A0A1B7SAM4	A0A1B7SAM4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_77970	Ogataea polymorpha	527
+XP_018212576.1		A0A1B7SMQ6	A0A1B7SMQ6_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_98553	Ogataea polymorpha	1830
+XP_018208710.1		A0A1B7SBC4	A0A1B7SBC4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_51722	Ogataea polymorpha	263
+XP_018209469.1		A0A1B7SDI0	A0A1B7SDI0_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_77840	Ogataea polymorpha	361
+XP_018211709.1		A0A1B7SJY2	A0A1B7SJY2_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16316	Ogataea polymorpha	477
+XP_018210274.1		A0A1B7SFS3	A0A1B7SFS3_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_17033	Ogataea polymorpha	517
+XP_018208666.1		A0A1B7SB23	A0A1B7SB23_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_78083	Ogataea polymorpha	174
+XP_018209799.1		A0A1B7SED5	A0A1B7SED5_9ASCO	unreviewed	Arginase (EC 3.5.3.1)	OGAPODRAFT_16799	Ogataea polymorpha	321
+XP_018209212.1		A0A1B7SCN4	A0A1B7SCN4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_83337	Ogataea polymorpha	465
+XP_018210803.1		A0A1B7SH89	A0A1B7SH89_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16610	Ogataea polymorpha	415
+XP_018208747.1		A0A1B7SBA2	A0A1B7SBA2_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_17452	Ogataea polymorpha	643
+XP_018209487.1		A0A1B7SDF4	A0A1B7SDF4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_17263	Ogataea polymorpha	363
+XP_018213223.1		A0A1B7SPZ2	A0A1B7SPZ2_9ASCO	unreviewed	Asparagine synthetase, isozyme of Asn1p	OGAPODRAFT_96855	Ogataea polymorpha	575
+XP_018210457.1		A0A1B7SGC5	A0A1B7SGC5_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_100157	Ogataea polymorpha	537
+XP_018209961.1		A0A1B7SET4	A0A1B7SET4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_83037	Ogataea polymorpha	549
+XP_018209959.1		A0A1B7SEU6	A0A1B7SEU6_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_9261	Ogataea polymorpha	469
+XP_018208960.1		A0A1B7SC21	A0A1B7SC21_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_96081	Ogataea polymorpha	2234
+XP_018211682.1		A0A1B7SJU9	A0A1B7SJU9_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_76258	Ogataea polymorpha	977
+XP_018208967.1		A0A1B7SBW9	A0A1B7SBW9_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_103693	Ogataea polymorpha	557
+XP_018209946.1		A0A1B7SEV2	A0A1B7SEV2_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_77218	Ogataea polymorpha	646
+XP_018211355.1		A0A1B7SJ76	A0A1B7SJ76_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_99244	Ogataea polymorpha	507
+XP_018213403.1		A0A1B7SQH5	A0A1B7SQH5_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_84904	Ogataea polymorpha	297
+XP_018213417.1		A0A1B7SQK6	A0A1B7SQK6_9ASCO	unreviewed	ATP synthase subunit alpha	OGAPODRAFT_15376	Ogataea polymorpha	447
+XP_018213195.1		A0A1B7SPW5	A0A1B7SPW5_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15252	Ogataea polymorpha	218
+XP_018210085.1		A0A1B7SF80	A0A1B7SF80_9ASCO	unreviewed	ATP synthase subunit gamma	OGAPODRAFT_16932	Ogataea polymorpha	287
+XP_018210061.1		A0A1B7SF41	A0A1B7SF41_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_9364	Ogataea polymorpha	139
+XP_018212560.1		A0A1B7SMP8	A0A1B7SMP8_9ASCO	unreviewed	ATP synthase subunit beta (EC 3.6.3.14)	OGAPODRAFT_15880	Ogataea polymorpha	503
+XP_018209336.1		A0A1B7SD21	A0A1B7SD21_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_95423	Ogataea polymorpha	82
+XP_018211217.1		A0A1B7SIH2	A0A1B7SIH2_9ASCO	unreviewed	Uncharacterized protein (Fragment)	OGAPODRAFT_16047	Ogataea polymorpha	205
+XP_018212544.1		A0A1B7SMN9	A0A1B7SMN9_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15872	Ogataea polymorpha	161
+XP_018212388.1		A0A1B7SM80	A0A1B7SM80_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_7070	Ogataea polymorpha	61
+XP_018213336.1		A0A1B7SQ98	A0A1B7SQ98_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_45471	Ogataea polymorpha	98
+XP_018209911.1		A0A1B7SEN7	A0A1B7SEN7_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_94801	Ogataea polymorpha	304
+XP_018213270.1		A0A1B7SQ29	A0A1B7SQ29_9ASCO	unreviewed	ATP synthase subunit d, mitochondrial	OGAPODRAFT_15295	Ogataea polymorpha	175
+XP_018209687.1		A0A1B7SE15	A0A1B7SE15_9ASCO	unreviewed	V-type proton ATPase subunit a	OGAPODRAFT_16753	Ogataea polymorpha	788
+XP_018210257.1		A0A1B7SFN8	A0A1B7SFN8_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_24996	Ogataea polymorpha	434
+XP_018211399.1		A0A1B7SIZ7	A0A1B7SIZ7_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16153	Ogataea polymorpha	474
+XP_018209211.1		A0A1B7SCN7	A0A1B7SCN7_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_95311	Ogataea polymorpha	349
+XP_018210885.1		A0A1B7SHG8	A0A1B7SHG8_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_94362	Ogataea polymorpha	351
+XP_018213482.1		A0A1B7SQR5	A0A1B7SQR5_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15427	Ogataea polymorpha	268
+XP_018210442.1		A0A1B7SGB0	A0A1B7SGB0_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_76469	Ogataea polymorpha	376
+XP_018212259.1		A0A1B7SLT6	A0A1B7SLT6_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_11793	Ogataea polymorpha	217
+XP_018209473.1		A0A1B7SDE5	A0A1B7SDE5_9ASCO	unreviewed	Catalase (EC 1.11.1.6)	OGAPODRAFT_95533	Ogataea polymorpha	507
+XP_018209161.1		A0A1B7SCI6	A0A1B7SCI6_9ASCO	unreviewed	Small subunit of carbamoyl phosphate synthetase	OGAPODRAFT_102168	Ogataea polymorpha	416
+XP_018213127.1		A0A1B7SPQ6	A0A1B7SPQ6_9ASCO	unreviewed	Large subunit of carbamoyl phosphate synthetase	OGAPODRAFT_15212	Ogataea polymorpha	1138
+XP_018210342.1		A0A1B7SG03	A0A1B7SG03_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_76390	Ogataea polymorpha	370
+XP_018211519.1		A0A1B7SJC4	A0A1B7SJC4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16205	Ogataea polymorpha	568
+XP_018212130.1		A0A1B7SLF7	A0A1B7SLF7_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_75269	Ogataea polymorpha	315
+XP_018210602.1		A0A1B7SGP3	A0A1B7SGP3_9ASCO	unreviewed	Chorismate mutase (EC 5.4.99.5)	OGAPODRAFT_16504	Ogataea polymorpha	280
+XP_018211213.1		A0A1B7SIJ9	A0A1B7SIJ9_9ASCO	unreviewed	Chorismate synthase (EC 4.2.3.5)	OGAPODRAFT_48315	Ogataea polymorpha	374
+XP_018211015.1		A0A1B7SHU9	A0A1B7SHU9_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_82811	Ogataea polymorpha	984
+XP_018208537.1		A0A1B7SAP5	A0A1B7SAP5_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_102999	Ogataea polymorpha	905
+XP_018212819.1		A0A1B7SNT4	A0A1B7SNT4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_83997	Ogataea polymorpha	1025
+XP_018213303.1		A0A1B7SQ79	A0A1B7SQ79_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_22860	Ogataea polymorpha	294
+XP_018213528.1		A0A1B7SQV3	A0A1B7SQV3_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15454	Ogataea polymorpha	323
+XP_018213410.1		A0A1B7SQH1	A0A1B7SQH1_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_97158	Ogataea polymorpha	255
+XP_018212302.1		A0A1B7SM37	A0A1B7SM37_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15747	Ogataea polymorpha	303
+XP_018213098.1		A0A1B7SPL4	A0A1B7SPL4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_74631	Ogataea polymorpha	286
+XP_018211231.1		A0A1B7SIL1	A0A1B7SIL1_9ASCO	unreviewed	Citrate synthase	OGAPODRAFT_16058	Ogataea polymorpha	465
+XP_018210437.1		A0A1B7SGA5	A0A1B7SGA5_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_48589	Ogataea polymorpha	601
+XP_018212231.1		A0A1B7SLQ9	A0A1B7SLQ9_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_75355	Ogataea polymorpha	961
+XP_018209672.1		A0A1B7SE05	A0A1B7SE05_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16745	Ogataea polymorpha	726
+XP_018209416.1		A0A1B7SDB2	A0A1B7SDB2_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_9954	Ogataea polymorpha	152
+XP_018211581.1		A0A1B7SJK3	A0A1B7SJK3_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_23954	Ogataea polymorpha	358
+XP_018213154.1		A0A1B7SPU8	A0A1B7SPU8_9ASCO	unreviewed	Uncharacterized protein (Fragment)	OGAPODRAFT_84499	Ogataea polymorpha	735
+XP_018213097.1		A0A1B7SPM7	A0A1B7SPM7_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15199	Ogataea polymorpha	343
+XP_018209422.1		A0A1B7SD90	A0A1B7SD90_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_90368	Ogataea polymorpha	742
+XP_018212170.1		A0A1B7SLJ5	A0A1B7SLJ5_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_46610	Ogataea polymorpha	257
+XP_018208750.1		A0A1B7SBG1	A0A1B7SBG1_9ASCO	unreviewed	3,4-dihydroxy-2-butanone 4-phosphate synthase (DHBP synthase) (EC 4.1.99.12)	OGAPODRAFT_25583	Ogataea polymorpha	206
+XP_018209744.1		A0A1B7SE96	A0A1B7SE96_9ASCO	unreviewed	Phospho-2-dehydro-3-deoxyheptonate aldolase (EC 2.5.1.54) (3-deoxy-D-arabino-heptulosonate 7-phosphate synthase) (DAHP synthase) (Phospho-2-keto-3-deoxyheptonate aldolase)	OGAPODRAFT_82913	Ogataea polymorpha	358
+XP_018209623.1		A0A1B7SE01	A0A1B7SE01_9ASCO	unreviewed	Phospho-2-dehydro-3-deoxyheptonate aldolase (EC 2.5.1.54) (3-deoxy-D-arabino-heptulosonate 7-phosphate synthase) (DAHP synthase) (Phospho-2-keto-3-deoxyheptonate aldolase)	OGAPODRAFT_50451	Ogataea polymorpha	373
+XP_018210411.1		A0A1B7SGA8	A0A1B7SGA8_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_8272	Ogataea polymorpha	416
+XP_018210895.1		A0A1B7SHH8	A0A1B7SHH8_9ASCO	unreviewed	Dihydroxyacetone kinase	OGAPODRAFT_100799	Ogataea polymorpha	609
+XP_018213520.1		A0A1B7SQT2	A0A1B7SQT2_9ASCO	unreviewed	Dihydrofolate synthetase (EC 6.3.2.12)	OGAPODRAFT_97329	Ogataea polymorpha	414
+XP_018210833.1		A0A1B7SHB6	A0A1B7SHB6_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16629	Ogataea polymorpha	447
+XP_018210521.1		A0A1B7SGR2	A0A1B7SGR2_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_87999	Ogataea polymorpha	359
+XP_018211086.1		A0A1B7SI66	A0A1B7SI66_9ASCO	unreviewed	Pentafunctional AROM polypeptide [Includes: 3-dehydroquinate synthase (DHQS) (EC 4.2.3.4); 3-dehydroquinate dehydratase (3-dehydroquinase) (EC 4.2.1.10); Shikimate dehydrogenase (EC 1.1.1.25); Shikimate kinase (SK) (EC 2.7.1.71); 3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19) (5-enolpyruvylshikimate-3-phosphate synthase) (EPSP synthase) (EPSPS)]	ARO1 OGAPODRAFT_15984	Ogataea polymorpha	1551
+XP_018212090.1		A0A1B7SLB6	A0A1B7SLB6_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15611	Ogataea polymorpha	250
+XP_018209127.1		A0A1B7SCE5	A0A1B7SCE5_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_17093	Ogataea polymorpha	351
+XP_018209011.1		A0A1B7SC17	A0A1B7SC17_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_10669	Ogataea polymorpha	292
+XP_018209835.1		A0A1B7SEI4	A0A1B7SEI4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_82959	Ogataea polymorpha	237
+XP_018212214.1		A0A1B7SLP9	A0A1B7SLP9_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_23286	Ogataea polymorpha	241
+XP_018211944.1		A0A1B7SKX9	A0A1B7SKX9_9ASCO	unreviewed	Diphosphomevalonate decarboxylase (EC 4.1.1.33)	OGAPODRAFT_97594	Ogataea polymorpha	385
+XP_018210625.1		A0A1B7SGR1	A0A1B7SGR1_9ASCO	unreviewed	2-dehydropantoate 2-reductase (EC 1.1.1.169) (Ketopantoate reductase)	OGAPODRAFT_100410	Ogataea polymorpha	332
+XP_018212489.1		A0A1B7SMG3	A0A1B7SMG3_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_98412	Ogataea polymorpha	210
+XP_018210397.1		A0A1B7SG51	A0A1B7SG51_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_76435	Ogataea polymorpha	165
+XP_018209516.1		A0A1B7SDJ7	A0A1B7SDJ7_9ASCO	unreviewed	Enolase I, a phosphopyruvate hydratase that catalyzes the conversion of 2-phosphoglycerate to phosph	OGAPODRAFT_25347	Ogataea polymorpha	436
+XP_018213370.1		A0A1B7SQC7	A0A1B7SQC7_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15348	Ogataea polymorpha	201
+XP_018210761.1		A0A1B7SHG0	A0A1B7SHG0_9ASCO	unreviewed	Fructose-1,6-bisphosphatase, key regulatory enzyme in the gluconeogenesis pathway	OGAPODRAFT_16585	Ogataea polymorpha	339
+XP_018209877.1		A0A1B7SEL5	A0A1B7SEL5_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_101391	Ogataea polymorpha	451
+XP_018213161.1		A0A1B7SPU2	A0A1B7SPU2_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15228	Ogataea polymorpha	667
+XP_018211467.1		A0A1B7SJ72	A0A1B7SJ72_9ASCO	unreviewed	Ferrochelatase (EC 4.99.1.1)	OGAPODRAFT_16184	Ogataea polymorpha	352
+XP_018212858.1		A0A1B7SNY1	A0A1B7SNY1_9ASCO	unreviewed	Formate dehydrogenase (FDH) (EC 1.17.1.9) (NAD-dependent formate dehydrogenase)	OGAPODRAFT_80896	Ogataea polymorpha	362
+XP_018210613.1		A0A1B7SGQ0	A0A1B7SGQ0_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16510	Ogataea polymorpha	340
+XP_018209682.1		A0A1B7SE18	A0A1B7SE18_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_77014	Ogataea polymorpha	274
+XP_018209619.1		A0A1B7SDV2	A0A1B7SDV2_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16722	Ogataea polymorpha	279
+XP_018210135.1		A0A1B7SFD3	A0A1B7SFD3_9ASCO	unreviewed	Fumarase, converts fumaric acid to L-malic acid in the TCA cycle	OGAPODRAFT_16971	Ogataea polymorpha	485
+XP_018210726.1		A0A1B7SH46	A0A1B7SH46_9ASCO	unreviewed	Glycerol-3-phosphate dehydrogenase [NAD(+)] (EC 1.1.1.8)	OGAPODRAFT_16566	Ogataea polymorpha	381
+XP_018209994.1		A0A1B7SEZ9	A0A1B7SEZ9_9ASCO	unreviewed	Glycerol-3-phosphate dehydrogenase (EC 1.1.5.3)	OGAPODRAFT_16889	Ogataea polymorpha	645
+XP_018211730.1		A0A1B7SK30	A0A1B7SK30_9ASCO	unreviewed	Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49)	OGAPODRAFT_16324	Ogataea polymorpha	505
+XP_018208534.1		A0A1B7SAQ5	A0A1B7SAQ5_9ASCO	unreviewed	UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)	OGAPODRAFT_17354	Ogataea polymorpha	494
+XP_018209147.1		A0A1B7SCG5	A0A1B7SCG5_9ASCO	unreviewed	Glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	OGAPODRAFT_89929	Ogataea polymorpha	335
+XP_018210101.1		A0A1B7SF81	A0A1B7SF81_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16943	Ogataea polymorpha	227
+XP_018211100.1		A0A1B7SI85	A0A1B7SI85_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15991	Ogataea polymorpha	686
+XP_018210638.1		A0A1B7SGT8	A0A1B7SGT8_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16530	Ogataea polymorpha	711
+XP_018211299.1		A0A1B7SIQ5	A0A1B7SIQ5_9ASCO	unreviewed	Serine hydroxymethyltransferase (EC 2.1.2.1)	OGAPODRAFT_16103	Ogataea polymorpha	458
+XP_018210251.1		A0A1B7SFM9	A0A1B7SFM9_9ASCO	unreviewed	Serine hydroxymethyltransferase (EC 2.1.2.1)	OGAPODRAFT_24994	Ogataea polymorpha	510
+XP_018213349.1		A0A1B7SQB2	A0A1B7SQB2_9ASCO	unreviewed	Glutamine synthetase (EC 6.3.1.2) (Fragment)	OGAPODRAFT_15336	Ogataea polymorpha	373
+XP_018210210.1		A0A1B7SFK1	A0A1B7SFK1_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_83178	Ogataea polymorpha	795
+XP_018210025.1		A0A1B7SF20	A0A1B7SF20_9ASCO	unreviewed	Glycylpeptide N-tetradecanoyltransferase (EC 2.3.1.97)	OGAPODRAFT_16906	Ogataea polymorpha	447
+XP_018213184.1		A0A1B7SPX9	A0A1B7SPX9_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_44689	Ogataea polymorpha	439
+XP_018208563.1		A0A1B7SAS1	A0A1B7SAS1_9ASCO	unreviewed	Gamma-glutamylcysteine synthetase	OGAPODRAFT_78012	Ogataea polymorpha	650
+XP_018211727.1		A0A1B7SK00	A0A1B7SK00_9ASCO	unreviewed	NAD-specific glutamate dehydrogenase (EC 1.4.1.2)	OGAPODRAFT_82333	Ogataea polymorpha	1024
+XP_018211876.1		A0A1B7SKQ1	A0A1B7SKQ1_9ASCO	unreviewed	Glutamate dehydrogenase	OGAPODRAFT_92383	Ogataea polymorpha	459
+XP_018212105.1		A0A1B7SLD5	A0A1B7SLD5_9ASCO	unreviewed	Amidophosphoribosyltransferase (ATase) (EC 2.4.2.14) (Glutamine phosphoribosylpyrophosphate amidotransferase)	OGAPODRAFT_15618	Ogataea polymorpha	562
+XP_018210147.1		A0A1B7SFD4	A0A1B7SFD4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_89468	Ogataea polymorpha	716
+XP_018211965.1		A0A1B7SKZ8	A0A1B7SKZ8_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15545	Ogataea polymorpha	531
+XP_018211387.1		A0A1B7SJ01	A0A1B7SJ01_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_93458	Ogataea polymorpha	552
+XP_018208938.1		A0A1B7SBU9	A0A1B7SBU9_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_103653	Ogataea polymorpha	752
+XP_018210634.1		A0A1B7SGU4	A0A1B7SGU4_9ASCO	unreviewed	Uncharacterized protein (Fragment)	OGAPODRAFT_16528	Ogataea polymorpha	509
+XP_018212492.1		A0A1B7SMN1	A0A1B7SMN1_9ASCO	unreviewed	GMP synthase	OGAPODRAFT_15850	Ogataea polymorpha	526
+XP_018208754.1		A0A1B7SBC6	A0A1B7SBC6_9ASCO	unreviewed	6-phosphogluconate dehydrogenase, decarboxylating (EC 1.1.1.44)	OGAPODRAFT_17455	Ogataea polymorpha	476
+XP_018211551.1		A0A1B7SJH5	A0A1B7SJH5_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_87278	Ogataea polymorpha	255
+XP_018211937.1		A0A1B7SKZ2	A0A1B7SKZ2_9ASCO	unreviewed	Glutathione reductase (EC 1.8.1.7)	OGAPODRAFT_15533	Ogataea polymorpha	463
+XP_018213267.1		A0A1B7SQ43	A0A1B7SQ43_9ASCO	unreviewed	Glutaredoxin	OGAPODRAFT_15294	Ogataea polymorpha	142
+XP_018211012.1		A0A1B7SHW9	A0A1B7SHW9_9ASCO	unreviewed	Glutathione synthetase (GSH-S) (EC 6.3.2.3)	OGAPODRAFT_16697	Ogataea polymorpha	375
+XP_018211650.1		A0A1B7SJU1	A0A1B7SJU1_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16289	Ogataea polymorpha	312
+XP_018209882.1		A0A1B7SEM2	A0A1B7SEM2_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_101393	Ogataea polymorpha	478
+XP_018208676.1		A0A1B7SB37	A0A1B7SB37_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_17420	Ogataea polymorpha	173
+XP_018209677.1		A0A1B7SE08	A0A1B7SE08_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16748	Ogataea polymorpha	237
+XP_018208762.1		A0A1B7SBD0	A0A1B7SBD0_9ASCO	unreviewed	Homoaconitase, mitochondrial (EC 4.2.1.36) (Homoaconitate hydratase)	OGAPODRAFT_91171	Ogataea polymorpha	679
+XP_018210208.1		A0A1B7SFJ1	A0A1B7SFJ1_9ASCO	unreviewed	Uncharacterized protein (Fragment)	OGAPODRAFT_77416	Ogataea polymorpha	301
+XP_018212007.1		A0A1B7SL61	A0A1B7SL61_9ASCO	unreviewed	Uncharacterized protein (Fragment)	OGAPODRAFT_85460	Ogataea polymorpha	510
+XP_018212303.1		A0A1B7SLY8	A0A1B7SLY8_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_75409	Ogataea polymorpha	318
+XP_018210554.1		A0A1B7SGM0	A0A1B7SGM0_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_76562	Ogataea polymorpha	530
+XP_018211972.1		A0A1B7SL62	A0A1B7SL62_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15549	Ogataea polymorpha	382
+XP_018212399.1		A0A1B7SM74	A0A1B7SM74_9ASCO	unreviewed	3-hydroxy-3-methylglutaryl coenzyme A reductase (HMG-CoA reductase) (EC 1.1.1.34)	OGAPODRAFT_15791	Ogataea polymorpha	1050
+XP_018213421.1		A0A1B7SQK1	A0A1B7SQK1_9ASCO	unreviewed	Homoserine dehydrogenase (EC 1.1.1.3)	OGAPODRAFT_15378	Ogataea polymorpha	357
+XP_018213172.1		A0A1B7SPU9	A0A1B7SPU9_9ASCO	unreviewed	L-homoserine-O-acetyltransferase	OGAPODRAFT_22750	Ogataea polymorpha	480
+XP_018212824.1		A0A1B7SNV6	A0A1B7SNV6_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_74411	Ogataea polymorpha	344
+XP_018209743.1		A0A1B7SEA7	A0A1B7SEA7_9ASCO	unreviewed	Imidazole glycerol phosphate synthase hisHF [Includes: Glutamine amidotransferase (EC 2.4.2.-); Cyclase (EC 4.1.3.-)]	OGAPODRAFT_94646	Ogataea polymorpha	556
+XP_018212866.1		A0A1B7SNX8	A0A1B7SNX8_9ASCO	unreviewed	Imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)	OGAPODRAFT_5846	Ogataea polymorpha	231
+XP_018209307.1		A0A1B7SCX3	A0A1B7SCX3_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_77713	Ogataea polymorpha	1075
+XP_018208610.1		A0A1B7SAZ2	A0A1B7SAZ2_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_17385	Ogataea polymorpha	568
+XP_018213019.1		A0A1B7SPD9	A0A1B7SPD9_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15154	Ogataea polymorpha	272
+XP_018213552.1		A0A1B7SQY7	A0A1B7SQY7_9ASCO	unreviewed	3-isopropylmalate dehydratase (EC 4.2.1.33) (Alpha-IPM isomerase) (Isopropylmalate isomerase)	OGAPODRAFT_81353	Ogataea polymorpha	787
+XP_018213551.1		A0A1B7SQY5	A0A1B7SQY5_9ASCO	unreviewed	Kynurenine 3-monooxygenase (EC 1.14.13.9) (Biosynthesis of nicotinic acid protein 4) (Kynurenine 3-hydroxylase)	BNA4 OGAPODRAFT_75001	Ogataea polymorpha	452
+XP_018212476.1		A0A1B7SMF5	A0A1B7SMF5_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_92907	Ogataea polymorpha	1093
+XP_018209920.1		A0A1B7SES0	A0A1B7SES0_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16856	Ogataea polymorpha	797
+XP_018213120.1		A0A1B7SPM6	A0A1B7SPM6_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_74645	Ogataea polymorpha	508
+XP_018210704.1		A0A1B7SH20	A0A1B7SH20_9ASCO	unreviewed	Terpene cyclase/mutase family member (EC 5.4.99.-)	OGAPODRAFT_16559	Ogataea polymorpha	715
+XP_018209420.1		A0A1B7SD83	A0A1B7SD83_9ASCO	unreviewed	Lysine--tRNA ligase (EC 6.1.1.6) (Lysyl-tRNA synthetase)	OGAPODRAFT_17228	Ogataea polymorpha	590
+XP_018212680.1		A0A1B7SN13	A0A1B7SN13_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15935	Ogataea polymorpha	436
+XP_018212593.1		A0A1B7SMR4	A0A1B7SMR4_9ASCO	unreviewed	Malate synthase (EC 2.3.3.9)	OGAPODRAFT_98584	Ogataea polymorpha	555
+XP_018210229.1		A0A1B7SFL8	A0A1B7SFL8_9ASCO	unreviewed	Mannose-6-phosphate isomerase (EC 5.3.1.8)	OGAPODRAFT_89623	Ogataea polymorpha	426
+XP_018208488.1		A0A1B7SAK0	A0A1B7SAK0_9ASCO	unreviewed	Malate dehydrogenase (EC 1.1.1.37)	OGAPODRAFT_83598	Ogataea polymorpha	342
+XP_018210120.1		A0A1B7SFB3	A0A1B7SFB3_9ASCO	unreviewed	Malate dehydrogenase (EC 1.1.1.37)	OGAPODRAFT_16957	Ogataea polymorpha	334
+XP_018210114.1		A0A1B7SFB7	A0A1B7SFB7_9ASCO	unreviewed	Methylthioribulose-1-phosphate dehydratase (MTRu-1-P dehydratase) (EC 4.2.1.109)	MDE1 OGAPODRAFT_9407	Ogataea polymorpha	239
+XP_018209830.1		A0A1B7SEI1	A0A1B7SEI1_9ASCO	unreviewed	S-adenosylmethionine synthase (EC 2.5.1.6)	OGAPODRAFT_9131	Ogataea polymorpha	382
+XP_018212925.1		A0A1B7SP45	A0A1B7SP45_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_84152	Ogataea polymorpha	754
+XP_018210864.1		A0A1B7SHI3	A0A1B7SHI3_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_100743	Ogataea polymorpha	539
+XP_018211921.1		A0A1B7SKU7	A0A1B7SKU7_9ASCO	unreviewed	3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)	OGAPODRAFT_97555	Ogataea polymorpha	308
+XP_018211472.1		A0A1B7SJ87	A0A1B7SJ87_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_93533	Ogataea polymorpha	305
+XP_018213006.1		A0A1B7SPC2	A0A1B7SPC2_9ASCO	unreviewed	Methylenetetrahydrofolate reductase (EC 1.5.1.20)	OGAPODRAFT_91824	Ogataea polymorpha	598
+XP_018209001.1		A0A1B7SC04	A0A1B7SC04_9ASCO	unreviewed	Methylenetetrahydrofolate reductase (EC 1.5.1.20)	OGAPODRAFT_17575	Ogataea polymorpha	594
+XP_018210246.1		A0A1B7SFQ5	A0A1B7SFQ5_9ASCO	unreviewed	Methylthioribose-1-phosphate isomerase (M1Pi) (MTR-1-P isomerase) (EC 5.3.1.23) (S-methyl-5-thioribose-1-phosphate isomerase) (Translation initiation factor eIF-2B subunit alpha/beta/delta-like protein)	MRI1 OGAPODRAFT_101866	Ogataea polymorpha	408
+XP_018208582.1		A0A1B7SAV8	A0A1B7SAV8_9ASCO	unreviewed	Nicotinate phosphoribosyltransferase (EC 6.3.4.21)	OGAPODRAFT_95758	Ogataea polymorpha	411
+XP_018208476.1		A0A1B7SAJ7	A0A1B7SAJ7_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_95665	Ogataea polymorpha	633
+XP_018212266.1		A0A1B7SLU6	A0A1B7SLU6_9ASCO	unreviewed	Pyruvate kinase (EC 2.7.1.40)	OGAPODRAFT_15725	Ogataea polymorpha	507
+XP_018210467.1		A0A1B7SGD5	A0A1B7SGD5_9ASCO	unreviewed	Ammonium transporter	OGAPODRAFT_49307	Ogataea polymorpha	469
+XP_018209796.1		A0A1B7SEG6	A0A1B7SEG6_9ASCO	unreviewed	Ammonium transporter	OGAPODRAFT_16797	Ogataea polymorpha	477
+XP_018211938.1		A0A1B7SKW8	A0A1B7SKW8_9ASCO	unreviewed	Nicotinamide-nucleotide adenylyltransferase (EC 2.7.7.1)	OGAPODRAFT_97583	Ogataea polymorpha	399
+XP_018212430.1		A0A1B7SMA8	A0A1B7SMA8_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_98306	Ogataea polymorpha	231
+XP_018209463.1		A0A1B7SDD7	A0A1B7SDD7_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_17255	Ogataea polymorpha	265
+XP_018209402.1		A0A1B7SD70	A0A1B7SD70_9ASCO	unreviewed	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	OGAPODRAFT_17222	Ogataea polymorpha	240
+XP_018212355.1		A0A1B7SM32	A0A1B7SM32_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15772	Ogataea polymorpha	433
+XP_018208928.1		A0A1B7SBT9	A0A1B7SBT9_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_17542	Ogataea polymorpha	358
+XP_018210999.1		A0A1B7SHU4	A0A1B7SHU4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_100977	Ogataea polymorpha	295
+XP_018210517.1		A0A1B7SGJ3	A0A1B7SGJ3_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_100225	Ogataea polymorpha	430
+XP_018211104.1		A0A1B7SI50	A0A1B7SI50_9ASCO	unreviewed	Orotate-phosphoribosyltransferase	OGAPODRAFT_12267	Ogataea polymorpha	185
+XP_018211473.1		A0A1B7SJA9	A0A1B7SJA9_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16185	Ogataea polymorpha	316
+XP_018211803.1		A0A1B7SK73	A0A1B7SK73_9ASCO	unreviewed	Pyruvate carboxylase (EC 6.4.1.1)	OGAPODRAFT_87688	Ogataea polymorpha	1175
+XP_018211784.1		A0A1B7SK50	A0A1B7SK50_9ASCO	unreviewed	Uncharacterized protein (Fragment)	OGAPODRAFT_16355	Ogataea polymorpha	284
+XP_018213302.1		A0A1B7SQ77	A0A1B7SQ77_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_81191	Ogataea polymorpha	711
+XP_018212726.1		A0A1B7SN57	A0A1B7SN57_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15957	Ogataea polymorpha	492
+XP_018209763.1		A0A1B7SED2	A0A1B7SED2_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_94666	Ogataea polymorpha	338
+XP_018209072.1		A0A1B7SCA0	A0A1B7SCA0_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_17060	Ogataea polymorpha	469
+XP_018209275.1		A0A1B7SCV2	A0A1B7SCV2_9ASCO	unreviewed	Phosphoglycerate kinase (EC 2.7.2.3)	OGAPODRAFT_102344	Ogataea polymorpha	416
+XP_018211918.1		A0A1B7SKU4	A0A1B7SKU4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_75091	Ogataea polymorpha	321
+XP_018212957.1		A0A1B7SP89	A0A1B7SP89_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_91784	Ogataea polymorpha	249
+XP_018213080.1		A0A1B7SPJ0	A0A1B7SPJ0_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15189	Ogataea polymorpha	229
+XP_018212451.1		A0A1B7SMC4	A0A1B7SMC4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_98346	Ogataea polymorpha	236
+XP_018209769.1		A0A1B7SEA5	A0A1B7SEA5_9ASCO	unreviewed	Phosphoglycerate mutase (EC 5.4.2.11)	OGAPODRAFT_82924	Ogataea polymorpha	253
+XP_018209087.1		A0A1B7SCA3	A0A1B7SCA3_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_102034	Ogataea polymorpha	570
+XP_018211162.1		A0A1B7SID9	A0A1B7SID9_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_75847	Ogataea polymorpha	576
+XP_018208895.1		A0A1B7SBQ7	A0A1B7SBQ7_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_78243	Ogataea polymorpha	589
+XP_018208970.1		A0A1B7SC31	A0A1B7SC31_9ASCO	unreviewed	Uncharacterized protein (Fragment)	OGAPODRAFT_17557	Ogataea polymorpha	495
+XP_018209373.1		A0A1B7SD52	A0A1B7SD52_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_83433	Ogataea polymorpha	450
+XP_018212140.1		A0A1B7SLG7	A0A1B7SLG7_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15635	Ogataea polymorpha	394
+XP_018209013.1		A0A1B7SC37	A0A1B7SC37_9ASCO	unreviewed	Serine/threonine-protein kinase TOR (EC 2.7.11.1)	OGAPODRAFT_17579	Ogataea polymorpha	1687
+XP_018210465.1		A0A1B7SGA1	A0A1B7SGA1_9ASCO	unreviewed	Phosphatidylinositol 3-kinase Pdd1p	OGAPODRAFT_93981	Ogataea polymorpha	1016
+XP_018212821.1		A0A1B7SNU7	A0A1B7SNU7_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_80878	Ogataea polymorpha	163
+XP_018209914.1		A0A1B7SER7	A0A1B7SER7_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_101426	Ogataea polymorpha	564
+XP_018209477.1		A0A1B7SDD8	A0A1B7SDD8_9ASCO	unreviewed	Phosphomannomutase (EC 5.4.2.8)	OGAPODRAFT_90468	Ogataea polymorpha	251
+XP_018209162.1		A0A1B7SCI5	A0A1B7SCI5_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_95263	Ogataea polymorpha	675
+XP_018210860.1		A0A1B7SHE0	A0A1B7SHE0_9ASCO	unreviewed	Phosphomevalonate kinase (EC 2.7.4.2)	OGAPODRAFT_88509	Ogataea polymorpha	431
+XP_018213376.1		A0A1B7SQE0	A0A1B7SQE0_9ASCO	unreviewed	Inorganic pyrophosphatase	OGAPODRAFT_15353	Ogataea polymorpha	281
+XP_018210642.1		A0A1B7SGT4	A0A1B7SGT4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16531	Ogataea polymorpha	238
+XP_018210662.1		A0A1B7SGV3	A0A1B7SGV3_9ASCO	unreviewed	Delta-aminolevulinic acid dehydratase (EC 4.2.1.24)	OGAPODRAFT_88236	Ogataea polymorpha	344
+XP_018211923.1		A0A1B7SKV7	A0A1B7SKV7_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15529	Ogataea polymorpha	452
+XP_018209924.1		A0A1B7SES7	A0A1B7SES7_9ASCO	unreviewed	Phosphoenolpyruvate carboxykinase	OGAPODRAFT_9224	Ogataea polymorpha	560
+XP_018209854.1		A0A1B7SEK8	A0A1B7SEK8_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_82973	Ogataea polymorpha	444
+XP_018209176.1		A0A1B7SCK5	A0A1B7SCK5_9ASCO	unreviewed	Protoporphyrinogen oxidase (EC 1.3.3.4) (Fragment)	OGAPODRAFT_40325	Ogataea polymorpha	523
+XP_018211334.1		A0A1B7SIV4	A0A1B7SIV4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_7687	Ogataea polymorpha	789
+XP_018213377.1		A0A1B7SQG1	A0A1B7SQG1_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_81232	Ogataea polymorpha	243
+XP_018210258.1		A0A1B7SFP1	A0A1B7SFP1_9ASCO	unreviewed	Phosphoribosylaminoimidazole-succinocarboxamide synthetase Pur7 (Fragment)	OGAPODRAFT_17022	Ogataea polymorpha	303
+XP_018212989.1		A0A1B7SPB1	A0A1B7SPB1_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_84264	Ogataea polymorpha	1353
+XP_018209651.1		A0A1B7SDY3	A0A1B7SDY3_9ASCO	unreviewed	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase (EC 5.3.1.16) (5-proFAR isomerase) (Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase)	OGAPODRAFT_76992	Ogataea polymorpha	266
+XP_018210047.1		A0A1B7SF34	A0A1B7SF34_9ASCO	unreviewed	Proline dehydrogenase (EC 1.5.5.2)	OGAPODRAFT_16911	Ogataea polymorpha	440
+XP_018212422.1		A0A1B7SMF9	A0A1B7SMF9_9ASCO	unreviewed	Uncharacterized protein (Fragment)	OGAPODRAFT_39276	Ogataea polymorpha	475
+XP_018208998.1		A0A1B7SC10	A0A1B7SC10_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_91557	Ogataea polymorpha	372
+XP_018213485.1		A0A1B7SQP8	A0A1B7SQP8_9ASCO	unreviewed	Ribose-phosphate pyrophosphokinase 1	OGAPODRAFT_81312	Ogataea polymorpha	320
+XP_018211736.1		A0A1B7SK18	A0A1B7SK18_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_82340	Ogataea polymorpha	325
+XP_018210003.1		A0A1B7SF25	A0A1B7SF25_9ASCO	unreviewed	Ribose-phosphate pyrophosphokinase	OGAPODRAFT_101532	Ogataea polymorpha	403
+XP_018213527.1		A0A1B7SQV8	A0A1B7SQV8_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15453	Ogataea polymorpha	211
+XP_018212879.1		A0A1B7SP01	A0A1B7SP01_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_91716	Ogataea polymorpha	234
+XP_018212553.1		A0A1B7SMM8	A0A1B7SMM8_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_98503	Ogataea polymorpha	228
+XP_018212482.1		A0A1B7SMM1	A0A1B7SMM1_9ASCO	unreviewed	6,7-dimethyl-8-ribityllumazine synthase (DMRL synthase) (EC 2.5.1.78)	OGAPODRAFT_15842	Ogataea polymorpha	167
+XP_018213454.1		A0A1B7SQN7	A0A1B7SQN7_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_6412	Ogataea polymorpha	236
+XP_018209481.1		A0A1B7SDF9	A0A1B7SDF9_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_77849	Ogataea polymorpha	445
+XP_018208905.1		A0A1B7SBR7	A0A1B7SBR7_9ASCO	unreviewed	Saccharopine dehydrogenase [NAD(+), L-lysine-forming] (SDH) (EC 1.5.1.7) (Lysine--2-oxoglutarate reductase)	OGAPODRAFT_103592	Ogataea polymorpha	369
+XP_018210584.1		A0A1B7SGP6	A0A1B7SGP6_9ASCO	unreviewed	Sulfate adenylyltransferase (EC 2.7.7.4) (ATP-sulfurylase) (Sulfate adenylate transferase) (SAT)	MET3 OGAPODRAFT_16498	Ogataea polymorpha	547
+XP_018212632.1		A0A1B7SN16	A0A1B7SN16_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_98634	Ogataea polymorpha	377
+XP_018212846.1		A0A1B7SNW1	A0A1B7SNW1_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_74426	Ogataea polymorpha	577
+XP_018210732.1		A0A1B7SH21	A0A1B7SH21_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16570	Ogataea polymorpha	564
+XP_018210495.1		A0A1B7SGD3	A0A1B7SGD3_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_94006	Ogataea polymorpha	503
+XP_018209932.1		A0A1B7SES3	A0A1B7SES3_9ASCO	unreviewed	Uncharacterized protein (Fragment)	OGAPODRAFT_50636	Ogataea polymorpha	798
+XP_018213360.1		A0A1B7SQC0	A0A1B7SQC0_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15343	Ogataea polymorpha	782
+XP_018210040.1		A0A1B7SF38	A0A1B7SF38_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_9342	Ogataea polymorpha	299
+XP_018208530.1		A0A1B7SAQ8	A0A1B7SAQ8_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_17351	Ogataea polymorpha	482
+XP_018208790.1		A0A1B7SBJ6	A0A1B7SBJ6_9ASCO	unreviewed	Uncharacterized protein (Fragment)	OGAPODRAFT_17472	Ogataea polymorpha	442
+XP_018210802.1		A0A1B7SH91	A0A1B7SH91_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16609	Ogataea polymorpha	499
+XP_018211437.1		A0A1B7SJ41	A0A1B7SJ41_9ASCO	unreviewed	Succinate dehydrogenase [ubiquinone] cytochrome b small subunit	OGAPODRAFT_7791	Ogataea polymorpha	157
+XP_018211367.1		A0A1B7SIX7	A0A1B7SIX7_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_7720	Ogataea polymorpha	320
+XP_018209062.1		A0A1B7SC93	A0A1B7SC93_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_17052	Ogataea polymorpha	346
+XP_018211357.1		A0A1B7SIW8	A0A1B7SIW8_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_99248	Ogataea polymorpha	1027
+XP_018212710.1		A0A1B7SN44	A0A1B7SN44_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_86546	Ogataea polymorpha	1069
+XP_018208830.1		A0A1B7SBN8	A0A1B7SBN8_9ASCO	unreviewed	Transaldolase (EC 2.2.1.2)	OGAPODRAFT_17504	Ogataea polymorpha	322
+XP_018208829.1		A0A1B7SBL1	A0A1B7SBL1_9ASCO	unreviewed	Transaldolase (EC 2.2.1.2) (Fragment)	OGAPODRAFT_17502	Ogataea polymorpha	333
+XP_018209630.1		A0A1B7SDY0	A0A1B7SDY0_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_94540	Ogataea polymorpha	398
+XP_018210829.1		A0A1B7SHC2	A0A1B7SHC2_9ASCO	unreviewed	Threonyl-tRNA synthetase	OGAPODRAFT_88455	Ogataea polymorpha	714
+XP_018209719.1		A0A1B7SE57	A0A1B7SE57_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16768	Ogataea polymorpha	427
+XP_018211184.1		A0A1B7SID6	A0A1B7SID6_9ASCO	unreviewed	Transketolase (EC 2.2.1.1)	OGAPODRAFT_16032	Ogataea polymorpha	676
+XP_018209497.1		A0A1B7SDG3	A0A1B7SDG3_9ASCO	unreviewed	Dihydroxyacetone synthase	TKL3 OGAPODRAFT_95557	Ogataea polymorpha	710
+XP_018213387.1		A0A1B7SQG9	A0A1B7SQG9_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_92172	Ogataea polymorpha	296
+XP_018212536.1		A0A1B7SML5	A0A1B7SML5_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_47120	Ogataea polymorpha	343
+XP_018212814.1		A0A1B7SNU3	A0A1B7SNU3_9ASCO	unreviewed	Triosephosphate isomerase (EC 5.3.1.1)	OGAPODRAFT_44849	Ogataea polymorpha	278
+XP_018210798.1		A0A1B7SH97	A0A1B7SH97_9ASCO	unreviewed	Trehalose-6-phosphate synthase (EC 2.4.1.15) (UDP-glucose-glucosephosphate glucosyltransferase)	OGAPODRAFT_16607	Ogataea polymorpha	475
+XP_018212397.1		A0A1B7SMA2	A0A1B7SMA2_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15790	Ogataea polymorpha	824
+XP_018210567.1		A0A1B7SGN9	A0A1B7SGN9_9ASCO	unreviewed	Trehalose phosphate synthase subunit	OGAPODRAFT_16492	Ogataea polymorpha	1030
+XP_018211693.1		A0A1B7SJW7	A0A1B7SJW7_9ASCO	unreviewed	Trehalase (EC 3.2.1.28) (Alpha-trehalose glucohydrolase)	OGAPODRAFT_82307	Ogataea polymorpha	724
+XP_018212287.1		A0A1B7SLZ9	A0A1B7SLZ9_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_92749	Ogataea polymorpha	706
+XP_018210805.1		A0A1B7SH85	A0A1B7SH85_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16612	Ogataea polymorpha	464
+XP_018213031.1		A0A1B7SPF7	A0A1B7SPF7_9ASCO	unreviewed	O-acyltransferase	OGAPODRAFT_74573	Ogataea polymorpha	527
+XP_018210923.1		A0A1B7SHK6	A0A1B7SHK6_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16660	Ogataea polymorpha	456
+XP_018209760.1		A0A1B7SEB1	A0A1B7SEB1_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_94663	Ogataea polymorpha	422
+XP_018211269.1		A0A1B7SIM8	A0A1B7SIM8_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_99128	Ogataea polymorpha	366
+XP_018211504.1		A0A1B7SJB6	A0A1B7SJB6_9ASCO	unreviewed	Tyrosine--tRNA ligase (EC 6.1.1.1) (Tyrosyl-tRNA synthetase)	OGAPODRAFT_76106	Ogataea polymorpha	400
+XP_018209179.1		A0A1B7SCQ6	A0A1B7SCQ6_9ASCO	unreviewed	Tyrosine--tRNA ligase (EC 6.1.1.1) (Tyrosyl-tRNA synthetase)	OGAPODRAFT_17116	Ogataea polymorpha	348
+XP_018212200.1		A0A1B7SLM3	A0A1B7SLM3_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_6888	Ogataea polymorpha	472
+XP_018211775.1		A0A1B7SKB9	A0A1B7SKB9_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_99881	Ogataea polymorpha	201
+XP_018212655.1		A0A1B7SMY4	A0A1B7SMY4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15927	Ogataea polymorpha	513
+XP_018208955.1		A0A1B7SBW4	A0A1B7SBW4_9ASCO	unreviewed	Uncharacterized protein (Fragment)	OGAPODRAFT_103670	Ogataea polymorpha	261
+XP_018212289.1		A0A1B7SLW3	A0A1B7SLW3_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15741	Ogataea polymorpha	1045
+XP_018211905.1		A0A1B7SKT2	A0A1B7SKT2_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15514	Ogataea polymorpha	597
+XP_018210729.1		A0A1B7SH25	A0A1B7SH25_9ASCO	unreviewed	Peroxidase (EC 1.11.1.-)	OGAPODRAFT_16567	Ogataea polymorpha	351
+XP_018212087.1		A0A1B7SLE3	A0A1B7SLE3_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15607	Ogataea polymorpha	119
+XP_018208740.1		A0A1B7SBF3	A0A1B7SBF3_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_25578	Ogataea polymorpha	146
+XP_018212048.1		A0A1B7SL77	A0A1B7SL77_9ASCO	unreviewed	Cytochrome c oxidase subunit 6A, mitochondrial (Cytochrome c oxidase polypeptide VIa)	OGAPODRAFT_92540	Ogataea polymorpha	133
+XP_018210665.1		A0A1B7SGV2	A0A1B7SGV2_9ASCO	unreviewed	Cytochrome c oxidase subunit	OGAPODRAFT_16538	Ogataea polymorpha	96
+XP_018211089.1		A0A1B7SI49	A0A1B7SI49_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_93190	Ogataea polymorpha	77
+XP_018211909.1		A0A1B7SKT8	A0A1B7SKT8_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_23094	Ogataea polymorpha	215
+XP_018209446.1		A0A1B7SDE2	A0A1B7SDE2_9ASCO	unreviewed	Protein required for assembly of cytochrome c oxidase	OGAPODRAFT_25304	Ogataea polymorpha	108
+XP_018211771.1		A0A1B7SK41	A0A1B7SK41_9ASCO	unreviewed	Chaperone that specifically facilitates the assembly of cytochrome c oxidase	OGAPODRAFT_8102	Ogataea polymorpha	94
+XP_018209702.1		A0A1B7SE38	A0A1B7SE38_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_9007	Ogataea polymorpha	56
+XP_018210909.1		A0A1B7SHK2	A0A1B7SHK2_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_13381	Ogataea polymorpha	142
+XP_018208971.1		A0A1B7SBX4	A0A1B7SBX4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_17558	Ogataea polymorpha	553
+XP_018211300.1		A0A1B7SIS9	A0A1B7SIS9_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_99179	Ogataea polymorpha	376
+XP_018211707.1		A0A1B7SJY0	A0A1B7SJY0_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_76277	Ogataea polymorpha	664
+XP_018208959.1		A0A1B7SBZ5	A0A1B7SBZ5_9ASCO	unreviewed	Phosphatidyl-N-methylethanolamine N-methyltransferase (EC 2.1.1.71) (Phospholipid methyltransferase) (PLMT)	OGAPODRAFT_78289	Ogataea polymorpha	209
+XP_018209196.1		A0A1B7SCN0	A0A1B7SCN0_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_95297	Ogataea polymorpha	580
+XP_018210620.1		A0A1B7SGP5	A0A1B7SGP5_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16512	Ogataea polymorpha	426
+XP_018212464.1		A0A1B7SMF4	A0A1B7SMF4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15833	Ogataea polymorpha	326
+XP_018213171.1		A0A1B7SPV5	A0A1B7SPV5_9ASCO	unreviewed	Sterol 3-beta-glucosyltransferase (EC 2.4.1.173) (Autophagy-related protein 26) (Fragment)	OGAPODRAFT_15233	Ogataea polymorpha	1241
+XP_018208748.1		A0A1B7SBA5	A0A1B7SBA5_9ASCO	unreviewed	Ubiquinone biosynthesis O-methyltransferase, mitochondrial (3,4-dihydroxy-5-hexaprenylbenzoate methyltransferase) (3-demethylubiquinol 3-O-methyltransferase) (3-demethylubiquinone-6 3-O-methyltransferase) (Hexaprenyldihydroxybenzoate methyltransferase) (Polyprenyldihydroxybenzoate methyltransferase) (DHHB methyltransferase) (DHHB-MT) (DHHB-MTase) (EC 2.1.1.114) (EC 2.1.1.64)	COQ3 OGAPODRAFT_83748	Ogataea polymorpha	288
+XP_018212387.1		A0A1B7SM89	A0A1B7SM89_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15783	Ogataea polymorpha	484
+XP_018208807.1		A0A1B7SBF9	A0A1B7SBF9_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_17481	Ogataea polymorpha	1416
+XP_018213090.1		A0A1B7SPK3	A0A1B7SPK3_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_45305	Ogataea polymorpha	442
+XP_018209113.1		A0A1B7SCE2	A0A1B7SCE2_9ASCO	unreviewed	rRNA adenine N(6)-methyltransferase (EC 2.1.1.-)	OGAPODRAFT_17086	Ogataea polymorpha	319
+XP_018212786.1		A0A1B7SNQ2	A0A1B7SNQ2_9ASCO	unreviewed	2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial (EC 2.1.1.201) (Ubiquinone biosynthesis methyltransferase COQ5)	COQ5 OGAPODRAFT_15042	Ogataea polymorpha	289
+XP_018209608.1		A0A1B7SDU6	A0A1B7SDU6_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16716	Ogataea polymorpha	160
+XP_018213438.1		A0A1B7SQK8	A0A1B7SQK8_9ASCO	unreviewed	Ubiquinone biosynthesis monooxygenase COQ6, mitochondrial (EC 1.14.13.-)	COQ6 OGAPODRAFT_97204	Ogataea polymorpha	454
+XP_018210452.1		A0A1B7SGB9	A0A1B7SGB9_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_16444	Ogataea polymorpha	334
+XP_018210563.1		A0A1B7SGJ4	A0A1B7SGJ4_9ASCO	unreviewed	Mitochondrial GTP/GDP transporter	OGAPODRAFT_16490	Ogataea polymorpha	300
+XP_018209266.1		A0A1B7SCV4	A0A1B7SCV4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_95363	Ogataea polymorpha	360
+XP_018209225.1		A0A1B7SCQ4	A0A1B7SCQ4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_25163	Ogataea polymorpha	531
+XP_018208451.1		A0A1B7SAH1	A0A1B7SAH1_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_77938	Ogataea polymorpha	571
+XP_018211022.1		A0A1B7SHX6	A0A1B7SHX6_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_76918	Ogataea polymorpha	540
+XP_018213183.1		A0A1B7SPV6	A0A1B7SPV6_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_84558	Ogataea polymorpha	802
+XP_018213106.1		A0A1B7SPL8	A0A1B7SPL8_9ASCO	unreviewed	Uncharacterized protein (Fragment)	OGAPODRAFT_43664	Ogataea polymorpha	512
+XP_018212887.1		A0A1B7SP21	A0A1B7SP21_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_96328	Ogataea polymorpha	257
+XP_018211418.1		A0A1B7SJ67	A0A1B7SJ67_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_76042	Ogataea polymorpha	1529
+XP_018208865.1		A0A1B7SBM3	A0A1B7SBM3_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_78218	Ogataea polymorpha	287
+XP_018209148.1		A0A1B7SCI4	A0A1B7SCI4_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_17101	Ogataea polymorpha	305
+XP_018210382.1		A0A1B7SG47	A0A1B7SG47_9ASCO	unreviewed	Elongation of fatty acids protein (EC 2.3.1.199) (Very-long-chain 3-oxoacyl-CoA synthase)	OGAPODRAFT_87824	Ogataea polymorpha	319
+XP_018211197.1		A0A1B7SIF7	A0A1B7SIF7_9ASCO	unreviewed	Elongation of fatty acids protein (EC 2.3.1.199) (Very-long-chain 3-oxoacyl-CoA synthase)	OGAPODRAFT_12336	Ogataea polymorpha	352
+XP_018208593.1		A0A1B7SAV3	A0A1B7SAV3_9ASCO	unreviewed	Very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase (EC 4.2.1.134)	OGAPODRAFT_17379	Ogataea polymorpha	211
+XP_018212739.1		A0A1B7SN77	A0A1B7SN77_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15963	Ogataea polymorpha	333
+XP_018212743.1		A0A1B7SN59	A0A1B7SN59_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_15965	Ogataea polymorpha	418
+XP_018212740.1		A0A1B7SN69	A0A1B7SN69_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_93152	Ogataea polymorpha	313
+XP_018210353.1		A0A1B7SG05	A0A1B7SG05_9ASCO	unreviewed	Uncharacterized protein	OGAPODRAFT_100017	Ogataea polymorpha	412
