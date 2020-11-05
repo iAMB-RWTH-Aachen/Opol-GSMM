@@ -11,15 +11,15 @@
       </unitDefinition>
     </listOfUnitDefinitions>
     <listOfCompartments>
-      <compartment metaid="c" id="c" name="Cytoplasm" constant="false"/>
-      <compartment metaid="e" id="e" name="Extracellular" constant="false"/>
-      <compartment metaid="g" id="g" name="Golgi" constant="false"/>
-      <compartment metaid="i" id="i" name="unknownCompartment4" constant="false"/>
-      <compartment metaid="m" id="m" name="Mitochondrion" constant="false"/>
-      <compartment metaid="n" id="n" name="Nucleus" constant="false"/>
-      <compartment metaid="r" id="r" name="Endoplasmic_reticulum" constant="false"/>
-      <compartment metaid="v" id="v" name="Vacuole" constant="false"/>
-      <compartment metaid="x" id="x" name="Peroxisome" constant="false"/>
+      <compartment metaid="c" id="c" name="c" constant="false"/>
+      <compartment metaid="e" id="e" name="e" constant="false"/>
+      <compartment metaid="g" id="g" name="g" constant="false"/>
+      <compartment metaid="i" id="i" name="i" constant="false"/>
+      <compartment metaid="m" id="m" name="m" constant="false"/>
+      <compartment metaid="n" id="n" name="n" constant="false"/>
+      <compartment metaid="r" id="r" name="r" constant="false"/>
+      <compartment metaid="v" id="v" name="v" constant="false"/>
+      <compartment metaid="x" id="x" name="x" constant="false"/>
     </listOfCompartments>
     <listOfSpecies>
       <species metaid="M_atp__91__c__93__" id="M_atp__91__c__93__" name="ATP" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-4" fbc:chemicalFormula="C10H12N5O13P3"/>
