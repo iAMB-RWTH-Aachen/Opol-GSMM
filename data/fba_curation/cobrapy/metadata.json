@@ -1,0 +1,10 @@
+{
+  "software.name": "fbc_curation",
+  "software.version": "0.1.6",
+  "software.url": "https://doi.org/10.5281/zenodo.3708271",
+  "environment": "posix, Linux, 5.4.0-104-generic",
+  "model.filename": "iUL909.xml",
+  "model.md5": "9f75575a7dbcd8e042508223c78c4e87",
+  "solver.name": "cobrapy (glpk)",
+  "solver.version": "0.23.0"
+}
