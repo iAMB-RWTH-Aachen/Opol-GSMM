@@ -1,6 +1,6 @@
 ### Source https://github.com/github/gitignore/
 # Model files based on license restriction
-data/ManuscriptMetFlex/Routes-Malate.png
+data/ManuscriptMetFlex/*
 code/AnalysisCodeOld.ipynb
 
 
