@@ -1,6 +1,6 @@
 ### Source https://github.com/github/gitignore/
 # Model files based on license restriction
-data/ManuscriptMetFlex/*
+
 code/AnalysisCodeOld.ipynb
 
 
