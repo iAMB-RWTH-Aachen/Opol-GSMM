@@ -24,14 +24,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.0670983"
-     inkscape:cx="374.8483"
-     inkscape:cy="510.26225"
+     inkscape:cx="403.4305"
+     inkscape:cy="746.41671"
      inkscape:window-width="1920"
-     inkscape:window-height="1051"
-     inkscape:window-x="1920"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     showgrid="false" />
   <defs
      id="defs1">
     <marker
@@ -77,103 +78,111 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="fill:#fffffd;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       id="rect43"
+       width="210.01079"
+       height="296.71402"
+       x="-0.053186528"
+       y="0.060617056"
+       ry="0" />
     <text
        xml:space="preserve"
        style="font-size:7.05556px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="31.350315"
-       y="56.423588"
+       x="34.973354"
+       y="43.194408"
        id="text1"><tspan
          sodipodi:role="line"
          id="tspan1"
          style="stroke-width:0.264583"
-         x="31.350315"
-         y="56.423588">Methanol</tspan></text>
+         x="34.973354"
+         y="43.194408">Methanol</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.05556px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
        x="36.11282"
-       y="75.473602"
+       y="69.123596"
        id="text2"><tspan
          sodipodi:role="line"
          id="tspan2"
          style="stroke-width:0.264583"
          x="36.11282"
-         y="75.473602">Pyruvate</tspan></text>
+         y="69.123596">Pyruvate</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.05556px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="33.459663"
+       x="33.918564"
        y="123.76476"
        id="text3"><tspan
          sodipodi:role="line"
          id="tspan3"
          style="stroke-width:0.264583"
-         x="33.459663"
+         x="33.918564"
          y="123.76476">AcetylCoA</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.05556px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="34.587486"
+       x="28.997309"
        y="145.67851"
        id="text4"><tspan
          sodipodi:role="line"
          id="tspan4"
          style="stroke-width:0.264583"
-         x="34.587486"
+         x="28.997309"
          y="145.67851">Oxaloacetate</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.05556px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
        x="124.0816"
-       y="145.92645"
+       y="145.67851"
        id="text5"><tspan
          sodipodi:role="line"
          id="tspan5"
          style="stroke-width:0.264583"
          x="124.0816"
-         y="145.92645">Citrate</tspan></text>
+         y="145.67851">Citrate</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.05556px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
        x="107.73627"
-       y="178.10265"
+       y="173.86937"
        id="text6"><tspan
          sodipodi:role="line"
          id="tspan6"
          style="stroke-width:0.264583"
          x="107.73627"
-         y="178.10265"><tspan
+         y="173.86937"><tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:symbol;-inkscape-font-specification:symbol"
    id="tspan7">a</tspan>-Ketoglutarate</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.05556px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
        x="34.587486"
-       y="178.48654"
+       y="174.25327"
        id="text8"><tspan
          sodipodi:role="line"
          id="tspan8"
          style="stroke-width:0.264583"
          x="34.587486"
-         y="178.48654">Malate</tspan></text>
+         y="174.25327">Malate</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.05556px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="62.633308"
-       y="162.61153"
+       x="160.063"
+       y="50.753777"
        id="text9"><tspan
          sodipodi:role="line"
          id="tspan9"
          style="stroke-width:0.264583"
-         x="62.633308"
-         y="162.61153">Glyoxylate</tspan></text>
+         x="160.063"
+         y="50.753777">Glyoxylate</tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round"
        id="rect9"
        width="169.50095"
        height="117.85181"
        x="2.4946954"
-       y="84.395439"
+       y="78.045433"
        ry="27.31432" />
     <text
        xml:space="preserve"
@@ -189,14 +198,19 @@
     <text
        xml:space="preserve"
        style="font-size:7.05556px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="29.9907"
-       y="199.16721"
+       x="111.25249"
+       y="218.63776"
        id="text11"><tspan
          sodipodi:role="line"
          id="tspan11"
          style="stroke-width:0.264583"
-         x="29.9907"
-         y="199.16721">Mitochondrium</tspan></text>
+         x="111.25249"
+         y="218.63776">m: Mitochondrium</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="111.25249"
+         y="227.4572"
+         id="tspan23">p: Peroxisome</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:4, 1;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#ConcaveTriangle)"
        d="M 50.010495,97.874295 V 111.88144"
@@ -247,67 +261,67 @@
          id="tspan16">ACLSm</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:4, 1;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#ConcaveTriangle)"
-       d="m 3.634992,230.45791 8.876061,-3.9936"
+       d="m 4.7381907,228.06458 8.8760613,-3.9936"
        id="path17"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
        style="font-size:7.05556px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="22.601828"
-       y="229.7182"
+       x="23.705027"
+       y="227.32492"
        id="text17"><tspan
          sodipodi:role="line"
          id="tspan17"
          style="stroke-width:0.264583"
-         x="22.601828"
-         y="229.7182">multiple reaction steps</tspan></text>
+         x="23.705027"
+         y="227.32492">multiple reaction steps</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#ConcaveTriangle)"
-       d="m 3.634992,218.81617 8.876061,-3.9936"
+       d="m 4.7381907,219.06869 8.8760613,-3.9936"
        id="path18"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
        style="font-size:7.05556px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="22.601828"
-       y="218.07669"
+       x="23.705027"
+       y="218.32921"
        id="text18"><tspan
          sodipodi:role="line"
          id="tspan18"
          style="stroke-width:0.264583"
-         x="22.601828"
-         y="218.07669">single reaction step</tspan></text>
+         x="23.705027"
+         y="218.32921">single reaction step</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.05556px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="115.92558"
-       y="215.20154"
+       x="111.72059"
+       y="245.94861"
        id="text19"><tspan
          sodipodi:role="line"
          style="font-style:italic;fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
-         x="115.92558"
-         y="215.20154"
+         x="111.72059"
+         y="245.94861"
          id="tspan19">TCA-</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:4, 1;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#ConcaveTriangle)"
-       d="M 107.14232,176.09227 H 64.147214"
+       d="M 107.14232,171.85891 H 64.147214"
        id="path19"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
        style="font-size:7.05556px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-       x="94.805191"
-       y="184.6521"
+       x="95.332649"
+       y="178.07172"
        id="text20"><tspan
          sodipodi:role="line"
          style="font-style:italic;text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
-         x="94.805191"
-         y="184.6521"
+         x="95.332649"
+         y="178.07172"
          id="tspan20">AKGDH</tspan><tspan
          sodipodi:role="line"
          style="font-style:italic;text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
-         x="94.805191"
-         y="193.47154"
+         x="95.332649"
+         y="186.89116"
          id="tspan21">1/2</tspan></text>
     <text
        xml:space="preserve"
@@ -325,5 +339,200 @@
        d="M 155.07926,142.68011 H 177.0021"
        id="path22"
        sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="154.81471"
+       y="150.41302"
+       id="text15"><tspan
+         sodipodi:role="line"
+         style="font-style:italic;fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+         x="154.81471"
+         y="150.41302"
+         id="tspan15">CITta</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+         x="154.81471"
+         y="159.23247"
+         id="tspan24">m/p</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#ConcaveTriangle)"
+       d="m 73.52485,143.29383 43.06909,0"
+       id="path24"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 70.109743,121.35801 c 31.279797,-0.49526 32.701017,0.0635 32.043337,21.85176"
+       id="path25"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:4, 1;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#ConcaveTriangle)"
+       d="m 135.09438,147.72081 v 14.00714"
+       id="path26"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:4, 1;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#ConcaveTriangle)"
+       d="M 50.010495,168.02795 V 154.02081"
+       id="path27"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:4, 1;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#ConcaveTriangle)"
+       d="M 50.010495,70.357626 V 84.364765"
+       id="path28"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:4, 1;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#ConcaveTriangle)"
+       d="M 50.010495,43.899291 V 57.90643"
+       id="path29"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round"
+       id="rect29"
+       width="206.54366"
+       height="172.21657"
+       x="1.4094408"
+       y="25.678633"
+       ry="27.31432" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="113.29348"
+       y="33.107441"
+       id="text30"><tspan
+         sodipodi:role="line"
+         id="tspan30"
+         style="stroke-width:0.264583"
+         x="113.29348"
+         y="33.107441">Cytoplasm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="107.51852"
+       y="84.038857"
+       id="text31"><tspan
+         sodipodi:role="line"
+         id="tspan31"
+         style="stroke-width:0.264583"
+         x="107.51852"
+         y="84.038857">Compartment</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="92.2761"
+       y="193.55832"
+       id="text33"><tspan
+         sodipodi:role="line"
+         style="font-style:italic;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
+         x="92.2761"
+         y="193.55832"
+         id="tspan33">AKGDam</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="119.43257"
+       y="253.59998"
+       id="text34"><tspan
+         sodipodi:role="line"
+         style="font-style:italic;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
+         x="119.43257"
+         y="253.59998"
+         id="tspan34">TCA+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="5.2094555"
+       y="244.95673"
+       id="text35"><tspan
+         sodipodi:role="line"
+         id="tspan35"
+         style="stroke-width:0.264583"
+         x="5.2094555"
+         y="244.95673">Reactions modified for scenario:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="100.73492"
+       y="57.946655"
+       id="text36"><tspan
+         sodipodi:role="line"
+         id="tspan36"
+         style="stroke-width:0.264583"
+         x="100.73492"
+         y="57.946655">Isocitrate</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="160.2394"
+       y="64.611549"
+       id="text37"><tspan
+         sodipodi:role="line"
+         id="tspan37"
+         style="stroke-width:0.264583"
+         x="160.2394"
+         y="64.611549">Succinate</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:"
+       d="m 133.05902,55.770662 h 14.00714"
+       id="path37"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#ConcaveTriangle)"
+       d="m 146.70367,48.960058 h 6.94402"
+       id="path38"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 147.13529,48.767092 v 14.00714"
+       id="path39"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#ConcaveTriangle)"
+       d="m 146.70367,62.437179 h 6.94402"
+       id="path40"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="135.51698"
+       y="53.660103"
+       id="text40"><tspan
+         sodipodi:role="line"
+         style="font-style:italic;fill:#ff00a3;fill-opacity:1;stroke-width:0.264583"
+         x="135.51698"
+         y="53.660103"
+         id="tspan40">ICL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="111.43969"
+       y="261.46594"
+       id="text41"><tspan
+         sodipodi:role="line"
+         style="font-style:italic;fill:#ff00a3;fill-opacity:1;stroke-width:0.264583"
+         x="111.43969"
+         y="261.46594"
+         id="tspan41">Glx+Std</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="24.662678"
+       y="161.88187"
+       id="text42"><tspan
+         sodipodi:role="line"
+         style="font-style:italic;fill:#ffa800;fill-opacity:1;stroke-width:0.264583"
+         x="24.662678"
+         y="161.88187"
+         id="tspan42">MDHm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="110.97971"
+       y="269.77231"
+       id="text43"><tspan
+         sodipodi:role="line"
+         style="font-style:italic;fill:#ffa800;fill-opacity:1;stroke-width:0.264583"
+         x="110.97971"
+         y="269.77231"
+         id="tspan43">Glx+Mut</tspan></text>
   </g>
 </svg>
