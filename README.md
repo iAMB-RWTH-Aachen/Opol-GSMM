@@ -25,11 +25,11 @@ Liebal, UW., Fabry, BA., Ravikrishnan A., Schedel, CVL., Schmitz, S., Blank, LM.
 ### Methanol bioconversion into C3, C4, and C5 platform chemicals by the yeast *Ogataea polymorpha*
 *Ogataea polymorpha* has the potential to produce useful chemicals from methanol, a C1 carbon molecule that can be sourced sustainably from CO<sub>2</sub> and green hydrogen. Our focus was on generating acetone, malate, and isoprene as examples of industrially relevant products with different carbon atom counts. We successfully modified *O. polymorpha* to produce these compounds using methanol as a carbon source. Notably, we found that *O. polymorpha* is well-suited for malate production, and introducing an efficient malate transporter is crucial for this process. Through optimizing cultivation conditions, we achieved high yields of malate (13 g/L) and demonstrated the production of acetone and isoprene as well. These results suggest *O. polymorpha* could be a versatile tool for producing various biochemicals from methanol, contributing to our understanding of using methylotrophic yeasts for sustainable chemical production. This study can guide future efforts in metabolic engineering and process optimization for producing platform chemicals from renewable C1 carbon sources. 
 
-The simulations for this work have bee done with the Jupyter Notebook [code/Model-Analysis.ipynb](code/Model-Analysis.ipynb) associated data of this work is located in the subfolder [data/MethanolBioconversion](data/MethanolBioconversion). 
+The simulations for this work have bee done with the Jupyter Notebook [code/Model-Analysis.ipynb](code/Model-Analysis.ipynb) and the GSMM used is the latest development of the *O. polymorpha* model [model/iOpol23.xml](model/iOpol23.xml).
 
 ### Citation
 
-Wefelmeier, K., Schmitz, S., Kösters, B.J., Liebal, U.W., Blank, LM.Methanol bioconversion into C3, C4, and C5 platform chemicals by the yeast *Ogataea polymorpha*. submitted and under revision
+Wefelmeier, K., Schmitz, S., Kösters, BJ., Liebal, UW., Blank, LM. Methanol bioconversion into C3, C4, and C5 platform chemicals by the yeast *Ogataea polymorpha*. submitted and under revision
 
 ---
 
