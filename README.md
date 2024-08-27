@@ -58,16 +58,7 @@ Biotechnology; Genome-Scale metabolic model; Metabolic reconstruction; Metabolic
 **Condition:** aerobic; glucose-limited; methanol-limited, defined media
 
 
-### Installation
-
-Due to license agreements the model is not freely available. However, we are happy to send you the model by mail:
-
-lars.blank(at)rwth-aachen.de
-
-ulf.liebal(at)rwth-aachen.de
-
-
 ### Usage
 
-Use the Jupyter Notebooks in the `code` directory.
+Clone the repository and examine the Jupyter Notebooks in the `code` folder to run simulations.
 
